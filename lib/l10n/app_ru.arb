@@ -1,0 +1,894 @@
+{
+  "@@locale": "ru",
+  "navToday": "Сегодня",
+  "navPlanner": "Планировщик",
+  "navFocus": "Фокус",
+  "navTasks": "Задачи",
+  "navHabits": "Привычки",
+  "settings": "Настройки",
+  "planMyDay": "Спланировать день",
+  "focusMode": "Режим фокуса",
+  "language": "Язык",
+  "systemDefault": "Системный",
+  "localization": "Локализация",
+  "focusDuration": "Длительность фокуса",
+  "minUnit": "мин",
+  "breakDuration": "Длительность перерыва",
+  "notifications": "Уведомления",
+  "taskReminders": "Напоминания о задачах",
+  "taskRemindersSub": "Уведомлять за 10 минут до начала задачи.",
+  "habitReminders": "Напоминания о привычках",
+  "dailyPlanning": "Ежедневное планирование",
+  "dailyPlanningSub": "Утренние и вечерние напоминания для планирования и обзора дня.",
+  "resourcesTitle": "Ресурсы",
+  "resourcesSubtitle": "Сохраняйте курсы, документацию и полезные ссылки в одном месте.",
+  "resourcesEmptyTitle": "Пока нет ресурсов.",
+  "addResourceButton": "Добавить ресурс",
+  "todayWord": "Сегодня",
+  "editLabel": "Изменить",
+  "deleteLabel": "Удалить",
+  "cancelLabel": "Отмена",
+  "saveLabel": "Сохранить",
+  "addWord": "Добавить",
+  "optionalLabel": "Необязательно",
+  "habitsTitle": "Привычки",
+  "habitsSubtitle": "Небольшие повторяющиеся действия — отслеживаются ежедневно.",
+  "habitsEmptyTitle": "Пока нет привычек.",
+  "habitsEmptySubtitle": "Отслеживайте что-то небольшое, что хотите делать каждый день — Meridian построит серию за вас.",
+  "addHabitButton": "Добавить привычку",
+  "habitDeleteTitle": "Удалить эту привычку?",
+  "dailyLabel": "Ежедневно",
+  "streakLabel": "СЕРИЯ",
+  "bestLabel": "ЛУЧШИЙ",
+  "day30Label": "30 ДНЕЙ",
+  "doneTodayLabel": "Выполнено сегодня",
+  "markDoneTodayLabel": "Отметить как выполнено",
+  "daysAgo30Label": "30 дней назад",
+  "categoryStudy": "Учёба",
+  "categoryWork": "Работа",
+  "categoryPersonal": "Личное",
+  "categoryHealth": "Здоровье",
+  "categoryProject": "Проект",
+  "priorityLow": "Низкий",
+  "priorityMedium": "Средний",
+  "priorityHigh": "Высокий",
+  "priorityUrgent": "Срочный",
+  "statusTodo": "К выполнению",
+  "statusInProgress": "В процессе",
+  "statusCompleted": "Завершено",
+  "statusSkipped": "Пропущено",
+  "tasksTitle": "Задачи",
+  "anyDateFilter": "Любая дата",
+  "upcomingFilter": "Предстоящие",
+  "pastFilter": "Прошедшие",
+  "allFilter": "Все",
+  "openFilter": "Открытые",
+  "allCategoriesFilter": "Все категории",
+  "tasksEmptyTitle": "Ваш список задач пуст.",
+  "tasksEmptySubtitle": "Создайте первую задачу или попробуйте функцию «Спланировать день» на панели управления.",
+  "createTaskButton": "Создать задачу",
+  "tasksNoMatchTitle": "Нет задач, соответствующих этим фильтрам.",
+  "tasksNoMatchSubtitle": "Попробуйте другой статус, категорию или диапазон дат.",
+  "taskDeleteTitle": "Удалить эту задачу?",
+  "openLinkLabel": "Открыть ссылку",
+  "greetingMorning": "Доброе утро.",
+  "greetingAfternoon": "Добрый день.",
+  "greetingEvening": "Добрый вечер.",
+  "dashboardSubtitleEvening": "Как прошёл день?",
+  "dashboardSubtitleDay": "Сделаем этот день продуктивным.",
+  "dayReviewButton": "Обзор дня",
+  "focusTimeLabel": "Время фокуса",
+  "scoreLabel": "Балл",
+  "dashboardClearTitle": "Ваш день свободен.",
+  "dashboardClearSubtitle": "Готовы сделать что-то полезное?",
+  "todaysScheduleTitle": "Расписание на сегодня",
+  "openPlannerButton": "Открыть планировщик",
+  "scheduleEmptyText": "На сегодня в расписании больше ничего нет.",
+  "startFocusButton": "Начать фокус",
+  "periodMorning": "Утро",
+  "periodAfternoon": "День",
+  "periodEvening": "Вечер",
+  "periodNight": "Ночь",
+  "plannerTitle": "Планировщик",
+  "plannerHint": "Долгое нажатие на блок — переместить, на нижний край — изменить размер.",
+  "previousDayTooltip": "Предыдущий день",
+  "nextDayTooltip": "Следующий день",
+  "jumpToTodayTooltip": "Перейти к сегодня",
+  "plannerEmptySubtitle": "Нажмите на любой слот ниже, чтобы запланировать задачу.",
+  "urgentBadge": "СРОЧНО",
+  "timeBlockDeleteTitle": "Удалить этот временной блок?",
+  "overlapErrorToast": "Это пересекается с другим блоком — попробуйте другое время",
+  "focusSubtitleFocus": "Одна задача. Полное внимание.",
+  "focusSubtitleBreak": "Отойдите на минутку.",
+  "blockDistractingAppsTitle": "Блокировать отвлекающие приложения",
+  "workingOnLabel": "Работаю над",
+  "noTasksFreeSession": "Задач не осталось — свободная сессия",
+  "focusPhaseLabel": "ФОКУС",
+  "breakPhaseLabel": "ПЕРЕРЫВ",
+  "freeSessionLabel": "Свободная сессия",
+  "startButtonLabel": "Начать",
+  "resumeButtonLabel": "Продолжить",
+  "pauseButtonLabel": "Пауза",
+  "resetButtonLabel": "Сброс",
+  "skipButtonLabel": "Пропустить",
+  "completeButtonLabel": "Завершить",
+  "customPresetLabel": "Свой",
+  "focusFieldLabel": "Фокус",
+  "breakFieldLabel": "Перерыв",
+  "yourTaskFallback": "вашу задачу",
+  "focusCompleteNotifTitle": "Сессия фокуса завершена 🎉",
+  "breakOverToast": "Перерыв закончился — готовы к новому раунду?",
+  "breakOverNotifTitle": "Перерыв закончился",
+  "breakOverNotifBody": "Готовы к новому раунду?",
+  "blockAppsTitle": "Блокировка приложений",
+  "noAppsFound": "Приложения не найдены",
+  "permissionsRequiredTitle": "Требуются разрешения",
+  "accessibilityPermissionExplanation": "Meridian требуется разрешение специальных возможностей Android, чтобы обнаруживать открытие заблокированного приложения во время сессии фокуса.\n\nМы не читаем содержимое вашего экрана.",
+  "openAndroidSettingsButton": "Открыть настройки Android",
+  "settingsSubtitle": "Настройте Meridian под свой стиль работы.",
+  "languageEffectImmediate": "Изменение языка применяется сразу.",
+  "appearanceTitle": "Внешний вид",
+  "themeLabel": "Тема",
+  "themeDescription": "Оба режима продуманы отдельно, а не просто инвертированы.",
+  "darkLabel": "Тёмная",
+  "lightLabel": "Светлая",
+  "systemLabel": "Системная",
+  "timeFormatLabel": "Формат времени",
+  "timeFormatDescription": "Как отображается время в приложении.",
+  "format12h": "12-часовой",
+  "format24h": "24-часовой",
+  "weekStartsLabel": "Неделя начинается с",
+  "weekStartsDescription": "Влияет на еженедельные виды и обзоры.",
+  "sundayLabel": "Воскресенье",
+  "mondayLabel": "Понедельник",
+  "pomodoroFocusDescription": "Используется для пользовательского пресета Pomodoro.",
+  "pomodoroBreakDescription": "Применяется после каждой пользовательской сессии фокуса.",
+  "focusNotificationsLabel": "Уведомления о сессии фокуса",
+  "focusNotificationsDescription": "Получайте уведомление по окончании таймера фокуса или перерыва, даже если Meridian не открыт.",
+  "onLabel": "Вкл",
+  "offLabel": "Выкл",
+  "habitRemindersDescription": "Установите время для каждой привычки на экране редактирования; это главный переключатель.",
+  "morningReminderHourLabel": "Час утреннего напоминания",
+  "eveningReminderHourLabel": "Час вечернего напоминания",
+  "clock24hDescription": "24-часовой формат.",
+  "hourUnit": "ч",
+  "yourDataTitle": "Ваши данные",
+  "dataPrivacyText": "Meridian хранит всё локально на этом устройстве — аккаунта нет, ничего никуда не загружается. Периодически экспортируйте резервную копию, особенно перед удалением приложения или сменой устройства.",
+  "exportBackupButton": "Экспортировать резервную копию",
+  "importBackupButton": "Импортировать резервную копию",
+  "loadExampleDataButton": "Загрузить пример данных",
+  "resetAllDataTitle": "Сбросить все локальные данные?",
+  "resetAllDataDescription": "Это навсегда удалит все задачи, привычки, сессии фокуса и обзоры на этом устройстве. Рекомендуем сначала экспортировать резервную копию.",
+  "resetEverythingButton": "Сбросить всё",
+  "resetAllDataButtonLabel": "Сбросить все локальные данные",
+  "aboutTitle": "О приложении",
+  "versionLabel": "Версия",
+  "storageLabel": "Хранилище",
+  "storageValue": "Только на этом устройстве",
+  "accountsLabel": "Аккаунты",
+  "accountsValue": "Нет — вход не требуется",
+  "backupReadyToast": "Резервная копия готова к сохранению",
+  "backupCreateErrorToast": "Не удалось создать файл резервной копии.",
+  "restoreBackupTitle": "Восстановить эту резервную копию?",
+  "restoreBackupDescription": "Это заменит все текущие задачи, привычки и настройки содержимым файла резервной копии. Это действие необратимо.",
+  "restoreLabel": "Восстановить",
+  "backupRestoredToast": "Резервная копия восстановлена",
+  "couldntReadFileError": "Не удалось прочитать этот файл.",
+  "notificationsOffFocusToast": "Уведомления отключены в настройках телефона — включите их там, если хотите получать оповещения фокуса.",
+  "notificationsOffTaskToast": "Уведомления отключены в настройках телефона — включите их там, если хотите получать напоминания о задачах.",
+  "notificationsOffHabitToast": "Уведомления отключены в настройках телефона — включите их там, если хотите получать напоминания о привычках.",
+  "notificationsOffDailyPlanningToast": "Уведомления отключены в настройках телефона — включите их там, если хотите получать напоминания о ежедневном планировании.",
+  "analyticsTitle": "Аналитика",
+  "analyticsSubtitle": "Как на самом деле прошло ваше время.",
+  "thisWeekFilter": "На этой неделе",
+  "thisMonthFilter": "В этом месяце",
+  "productivityScoreLabel": "Оценка продуктивности",
+  "completionRateLabel": "Процент выполнения",
+  "avgSessionLabel": "Средняя сессия",
+  "executionConsistencyTitle": "Выполнение и постоянство",
+  "executionConsistencySubtitle": "Запланированные и выполненные задачи, соблюдение привычек",
+  "focusTimeTrendTitle": "Тренд времени фокуса",
+  "todaysFocusBySession": "Фокус за сегодня, по сессиям",
+  "last7DaysLabel": "последние 7 дней",
+  "last28DaysLabel": "последние 28 дней",
+  "categoryDistributionTitle": "Распределение по категориям",
+  "allActiveTasksLabel": "Все активные задачи",
+  "categoryBreakdownRangeLabel": "Задачи · {range}",
+  "@categoryBreakdownRangeLabel": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "plannedVsActualTimeLabel": "Запланированное и фактическое время ({planned} план · {actual} факт)",
+  "@plannedVsActualTimeLabel": {
+    "placeholders": {
+      "planned": {
+        "type": "String"
+      },
+      "actual": {
+        "type": "String"
+      }
+    }
+  },
+  "completedVsSkippedTitle": "Выполнено и пропущено",
+  "dailyBreakdownLabel": "Разбивка по дням",
+  "habitCompletionLabel": "Выполнение привычек",
+  "noFocusSessionsToday": "Сегодня пока не зафиксировано ни одной сессии фокуса.",
+  "noTasksYet": "Пока нет задач",
+  "tasksWord": "задач",
+  "noHabitsYetShort": "Пока нет привычек",
+  "avgHabitConsistencyLabel": "Средняя стабильность привычек",
+  "taskDelaysTitle": "Задержки задач",
+  "noPostponedTasksSubtitle": "Пока нет отложенных задач. Отличная работа!",
+  "patternsInPostponedTasks": "Закономерности в отложенных задачах",
+  "delayedTasksLabel": "Отложенные задачи",
+  "mostDelayedLabel": "Чаще всего откладывается",
+  "habitCommitmentTitle": "Приверженность привычкам",
+  "habitCommitmentSubtitle": "Аналитика вашей ежедневной приверженности",
+  "mostConsistentLabel": "Самая стабильная",
+  "needsAttentionLabel": "Требует внимания",
+  "addHabitsToSeePatterns": "Добавьте привычки, чтобы увидеть закономерности вашей приверженности.",
+  "notEnoughFocusData": "Пока недостаточно данных о фокусе.",
+  "notEnoughDailyReviews": "Пока недостаточно ежедневных обзоров.",
+  "noTasksPostponed": "Ни одна задача не была отложена.",
+  "productivityPatternsTitle": "Закономерности продуктивности",
+  "observedBehavioralTrends": "Наблюдаемые поведенческие тенденции (на основе данных)",
+  "dayNameMondayInSentence": "понедельник",
+  "dayNameTuesdayInSentence": "вторник",
+  "dayNameWednesdayInSentence": "среду",
+  "dayNameThursdayInSentence": "четверг",
+  "dayNameFridayInSentence": "пятницу",
+  "dayNameSaturdayInSentence": "субботу",
+  "dayNameSundayInSentence": "воскресенье",
+  "productivityInsightsTitle": "Аналитика продуктивности",
+  "whatRecentActivitySuggests": "О чём говорит ваша недавняя активность",
+  "keepUsingMeridianInsight": "Продолжайте пользоваться Meridian ещё несколько дней — аналитика появится здесь, как только накопится достаточно данных для выявления реальных закономерностей.",
+  "periodMorningLower": "утром",
+  "periodAfternoonLower": "днём",
+  "periodEveningLower": "вечером",
+  "periodNightLower": "ночью",
+  "urgentTaskWordSingular": "срочная задача",
+  "urgentTaskWordPlural": "срочных задач",
+  "resourceNoLinkError": "У этого ресурса нет ссылки.",
+  "resourceInvalidLinkError": "Эта ссылка выглядит недействительной.",
+  "resourceOpenLinkError": "Не удалось открыть эту ссылку.",
+  "editResourceLabel": "Изменить ресурс",
+  "deleteResourceLabel": "Удалить ресурс",
+  "resourceDeleteTitle": "Удалить этот ресурс?",
+  "resourceGiveTitleError": "Дайте этому ресурсу название.",
+  "resourceProvideUrlError": "Укажите URL для этого ресурса.",
+  "resourceSelectImageError": "Пожалуйста, выберите изображение.",
+  "resourceSaveImageError": "Не удалось сохранить изображение.",
+  "editResourceModalTitle": "Изменить ресурс",
+  "coverImageLabel": "Обложка",
+  "tapToSelectImage": "Нажмите, чтобы выбрать изображение (необязательно)",
+  "titleLabel": "Название",
+  "urlLabel": "URL",
+  "descriptionOptionalLabel": "Описание (необязательно)",
+  "resourceTitleHint": "например, Мастер-класс по Flutter",
+  "resourceUrlHint": "например, https://example.com/course",
+  "resourceDescHint": "например, полное руководство по Flutter",
+  "saveChangesButton": "Сохранить изменения",
+  "taskGiveTitleError": "Дайте этой задаче название.",
+  "taskInvalidLinkError": "Эта ссылка не похожа на действительный URL.",
+  "editTaskModalTitle": "Изменить задачу",
+  "newTaskModalTitle": "Новая задача",
+  "taskTitleHint": "например, глубокая работа — черновик диссертации",
+  "dateLabel": "Дата",
+  "categoryLabelField": "Категория",
+  "priorityLabelField": "Приоритет",
+  "statusLabelField": "Статус",
+  "startHourLabel": "Час начала",
+  "minuteLabel": "Минута",
+  "durationMinLabel": "Длительность (мин)",
+  "linkLabel": "Ссылка",
+  "taskLinkHint": "например, coursera.org/learn/your-course",
+  "notesLabel": "Заметки",
+  "yesDeleteLabel": "Да, удалить",
+  "addToDayButton": "Добавить в день",
+  "habitGiveNameError": "Дайте этой привычке название.",
+  "editHabitModalTitle": "Изменить привычку",
+  "newHabitModalTitle": "Новая привычка",
+  "nameLabel": "Название",
+  "habitNameHint": "например, утренняя пробежка",
+  "iconLabel": "Иконка",
+  "colorLabel": "Цвет",
+  "reminderLabel": "Напоминание",
+  "noReminderLabel": "Без напоминания",
+  "topPrioritiesQuestion": "Каковы ваши главные приоритеты на сегодня?",
+  "priorityHint1": "например, закончить 3-ю главу диссертации",
+  "continueButton": "Продолжить",
+  "fixedCommitmentsLabel": "Фиксированные обязательства на сегодня (необязательно)",
+  "commitmentsHintExample": "По одному на строку, например: «13:00–14:00 обед с руководителем»",
+  "commitmentsFieldPlaceholder": "9:00 - 10:00 планёрка\n13:00-14:00 обед",
+  "backButton": "Назад",
+  "generateScheduleButton": "Создать расписание",
+  "addToMyDayButton": "Добавить в мой день",
+  "endOfDayReviewTitle": "Обзор дня",
+  "tasksDoneStatLabel": "Задач выполнено",
+  "focusedStatLabel": "Фокус",
+  "whatWentWellLabel": "Что прошло хорошо сегодня?",
+  "whatCouldImproveLabel": "Что можно улучшить?",
+  "saveReflectionButton": "Сохранить рефлексию",
+  "exitMeridianTitle": "Выйти из Meridian?",
+  "exitMeridianDesc": "Вы уверены, что хотите выйти из Meridian?",
+  "exitLabel": "Выход",
+  "notCompletedSemanticLabel": "Не выполнено",
+  "doubleTapMarkNotDone": "Дважды нажмите, чтобы отметить как невыполненное",
+  "doubleTapMarkDone": "Дважды нажмите, чтобы отметить как выполненное",
+  "dataCorruptedRecoveredToast": "Не удалось прочитать сохранённые данные, они были сброшены. Если у вас есть резервная копия, вы можете восстановить её в настройках.",
+  "saveFailedToast": "Не удалось сохранить изменения — возможно, на устройстве мало места.",
+  "resourceUpdatedToast": "Ресурс обновлён",
+  "reflectionSavedToast": "Рефлексия сохранена",
+  "allDataResetToast": "Все локальные данные были сброшены",
+  "exampleDataLoadedToast": "Загружены примерные данные",
+  "startingSoonNotifTitle": "Скоро начало",
+  "habitReminderNotifTitle": "Напоминание о привычке",
+  "goodMorningNotifTitle": "Доброе утро",
+  "readyToPlanBody": "Готовы спланировать свой день?",
+  "dayAlmostOverNotifTitle": "День почти закончился",
+  "takeMomentReviewBody": "Уделите минутку, чтобы оценить, как прошёл день.",
+  "breakTaskTitle": "Перерыв",
+  "focusBlockFallback": "Блок фокуса",
+  "generatedByPlanMyDayNote": "Создано функцией «Спланировать день»",
+  "continuedSuffix": " (продолжение)",
+  "viewAllLabel": "Показать все",
+  "yourNameLabel": "Ваше имя",
+  "yourNameDescription": "Используется для персонализации приветствия на главном экране.",
+  "yourNameHint": "например, Александр",
+  "profileTitle": "Профиль",
+  "addNameBannerText": "Добавьте своё имя для более личного приветствия",
+  "noThanksLabel": "Нет, спасибо",
+  "whatShouldWeCallYouTitle": "Как к вам обращаться?",
+  "overdueBadge": "ПРОСРОЧЕНО",
+  "jumpToNowTooltip": "Перейти к текущему времени",
+  "noTimeLeftTodayMessage": "В сегодняшнем расписании не осталось времени для планирования — попробуйте другой день или добавьте задачу прямо в планировщике.",
+  "addAnotherPriorityLabel": "Добавить ещё приоритет",
+  "taskInvalidDurationError": "Укажите корректную длительность в минутах (1–1440).",
+  "searchTasksHint": "Поиск задач...",
+  "habitRemindersOffWarning": "Напоминания о привычках отключены в настройках — это уведомление не сработает, пока вы их не включите.",
+  "turnOnLabel": "Включить",
+  "pauseHabitLabel": "Приостановить",
+  "pausedHabitsTitle": "Приостановлено",
+  "resetSessionTitle": "Сбросить эту сессию?",
+  "resetSessionDesc": "Ваш прогресс в этой сессии будет потерян.",
+  "searchResourcesHint": "Поиск ресурсов...",
+  "resourcesNoMatchTitle": "Нет ресурсов, соответствующих вашему поиску.",
+  "thisWeekSoFarLabel": "на этой неделе",
+  "backupErrorInvalidJson": "Этот файл не является допустимым JSON.",
+  "backupErrorNotABackup": "Этот файл не похож на резервную копию Meridian.",
+  "backupErrorWrongApp": "Этот файл был экспортирован не из Meridian.",
+  "backupErrorMissingData": "В этом файле резервной копии отсутствуют данные.",
+  "backupErrorCorruptData": "Данные в этом файле резервной копии повреждены или неполны.",
+  "habitDeleteDescStreak": "\"{name}\" и её серия из {days} дней будут удалены навсегда.",
+  "@habitDeleteDescStreak": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "habitDeleteDescHistory": "\"{name}\" и её история будут удалены навсегда.",
+  "@habitDeleteDescHistory": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "tasksSummary": "{total} всего · {completed} выполнено",
+  "@tasksSummary": {
+    "placeholders": {
+      "total": {
+        "type": "int"
+      },
+      "completed": {
+        "type": "int"
+      }
+    }
+  },
+  "taskDeleteDesc": "\"{title}\" будет удалена навсегда.",
+  "@taskDeleteDesc": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "upNextLabel": "ДАЛЕЕ · {start} → {end}",
+  "@upNextLabel": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "habitStreakDays": "{count} дней подряд",
+  "@habitStreakDays": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "tasksDoneLabel": "{completed} / {total} задач выполнено",
+  "@tasksDoneLabel": {
+    "placeholders": {
+      "completed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "timeBlockDeleteDesc": "\"{title}\" будет удалена из вашего планировщика.",
+  "@timeBlockDeleteDesc": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "appsSelectedCount": "{count} приложений выбрано",
+  "@appsSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "focusCompleteToast": "Сессия фокуса завершена 🎉 — {mins} мин на «{title}»",
+  "@focusCompleteToast": {
+    "placeholders": {
+      "mins": {
+        "type": "int"
+      },
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "focusCompleteNotifBody": "{mins} мин на «{title}» — отличная работа.",
+  "@focusCompleteNotifBody": {
+    "placeholders": {
+      "mins": {
+        "type": "int"
+      },
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesPerDayLabel": "Минут в день · {range}",
+  "@minutesPerDayLabel": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "ofFocusTarget": "из цели в {hours} ч фокуса",
+  "@ofFocusTarget": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "pctOfTodaysTarget": "{pct}% от сегодняшней цели",
+  "@pctOfTodaysTarget": {
+    "placeholders": {
+      "pct": {
+        "type": "int"
+      }
+    }
+  },
+  "minPerDayPoint": "{mins} мин · {date}",
+  "@minPerDayPoint": {
+    "placeholders": {
+      "mins": {
+        "type": "int"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "plannedVsCompletedLabel": "Запланировано и выполнено ({completed}/{total} задач)",
+  "@plannedVsCompletedLabel": {
+    "placeholders": {
+      "completed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "overallPctLabel": "{pct}% в целом",
+  "@overallPctLabel": {
+    "placeholders": {
+      "pct": {
+        "type": "int"
+      }
+    }
+  },
+  "peakFocusOccurs": "Пик фокуса приходится на {period} (записано {mins} мин).",
+  "@peakFocusOccurs": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      },
+      "mins": {
+        "type": "int"
+      }
+    }
+  },
+  "highestCompletionRateDay": "Наибольший процент выполнения задач обычно приходится на {day} ({pct}%).",
+  "@highestCompletionRateDay": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "pct": {
+        "type": "int"
+      }
+    }
+  },
+  "postponingPriorityTasks": "Часто откладываются задачи с приоритетом «{priority}» ({count} раз).",
+  "@postponingPriorityTasks": {
+    "placeholders": {
+      "priority": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "completionUpInsight": "Процент выполнения задач вырос на {diff}% на этой неделе по сравнению с прошлой — что бы ни изменилось, продолжайте в том же духе.",
+  "@completionUpInsight": {
+    "placeholders": {
+      "diff": {
+        "type": "int"
+      }
+    }
+  },
+  "completionDownInsight": "Процент выполнения задач снизился на {diff}% по сравнению с прошлой неделей.",
+  "@completionDownInsight": {
+    "placeholders": {
+      "diff": {
+        "type": "int"
+      }
+    }
+  },
+  "completionSteadyInsight": "Процент выполнения задач стабилен из недели в неделю ({pct}%).",
+  "@completionSteadyInsight": {
+    "placeholders": {
+      "pct": {
+        "type": "int"
+      }
+    }
+  },
+  "strongestHabitStreak": "{emoji} «{name}» держится {days} дней подряд — сейчас это ваша самая сильная привычка.",
+  "@strongestHabitStreak": {
+    "placeholders": {
+      "emoji": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      },
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "lapsedHabitInsight": "{emoji} «{name}» обычно стабильна ({pct}% в целом), но не отмечалась последние пару дней.",
+  "@lapsedHabitInsight": {
+    "placeholders": {
+      "emoji": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      },
+      "pct": {
+        "type": "int"
+      }
+    }
+  },
+  "goodAlignmentInsight": "Хорошее совпадение: вы планируете большинство задач {period}, и именно тогда ваши сессии фокуса длятся дольше всего.",
+  "@goodAlignmentInsight": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "misalignedFocusInsight": "Вы лучше всего сосредоточены {focusPeriod}, но большинство выполненных задач запланировано {taskPeriod}. Попробуйте перенести важную работу на пиковое время.",
+  "@misalignedFocusInsight": {
+    "placeholders": {
+      "focusPeriod": {
+        "type": "String"
+      },
+      "taskPeriod": {
+        "type": "String"
+      }
+    }
+  },
+  "urgentTaskPostponedSingular": "«{title}» срочная, всё ещё открыта и уже была отложена один раз — стоит заняться ею следующей.",
+  "@urgentTaskPostponedSingular": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "urgentTasksPostponedPlural": "«{title}» и ещё {extra} {taskWord} уже были отложены и всё ещё открыты.",
+  "@urgentTasksPostponedPlural": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "extra": {
+        "type": "int"
+      },
+      "taskWord": {
+        "type": "String"
+      }
+    }
+  },
+  "priorityFieldLabel": "Приоритет {n}",
+  "@priorityFieldLabel": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursAvailableLabel": "Часов доступно для сфокусированной работы: {hours} ч",
+  "@hoursAvailableLabel": {
+    "placeholders": {
+      "hours": {
+        "type": "String"
+      }
+    }
+  },
+  "blocksGeneratedReview": "Создано блоков: {count} — проверьте перед добавлением в свой день.",
+  "@blocksGeneratedReview": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "durationMinutesLabel": "{mins} мин",
+  "@durationMinutesLabel": {
+    "placeholders": {
+      "mins": {
+        "type": "int"
+      }
+    }
+  },
+  "blocksAddedToast": "Добавлено блоков в ваш день: {count}",
+  "@blocksAddedToast": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "itemAddedToDayToast": "\"{title}\" добавлена в ваш день",
+  "@itemAddedToDayToast": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "itemRemovedToast": "\"{title}\" удалена",
+  "@itemRemovedToast": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "taskCompleteToast": "\"{title}\" выполнена",
+  "@taskCompleteToast": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "habitAddedToast": "\"{name}\" добавлена в ваши привычки",
+  "@habitAddedToast": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "habitLoggedTodayToast": "{emoji} «{name}» отмечена на сегодня",
+  "@habitLoggedTodayToast": {
+    "placeholders": {
+      "emoji": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "resourceAddedToast": "\"{title}\" добавлена в ресурсы",
+  "@resourceAddedToast": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "taskStartsInBody": "«{title}» начнётся через {mins} мин.",
+  "@taskStartsInBody": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "mins": {
+        "type": "int"
+      }
+    }
+  },
+  "timeForHabitBody": "Время для «{name}».",
+  "@timeForHabitBody": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "moreItemsLabel": "+{count} ещё",
+  "@moreItemsLabel": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "greetingMorningNamed": "Доброе утро, {name}.",
+  "@greetingMorningNamed": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "greetingAfternoonNamed": "Добрый день, {name}.",
+  "@greetingAfternoonNamed": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "greetingEveningNamed": "Добрый вечер, {name}.",
+  "@greetingEveningNamed": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "trendVsYesterday": "{delta} по сравнению со вчера",
+  "@trendVsYesterday": {
+    "placeholders": {
+      "delta": {
+        "type": "String"
+      }
+    }
+  },
+  "minimumTimeWarning": "При {count} приоритетах на каждый уходит минимум 30 мин — итого {neededHours} ч, больше чем вы указали ({setHours} ч).",
+  "@minimumTimeWarning": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "neededHours": {
+        "type": "String"
+      },
+      "setHours": {
+        "type": "String"
+      }
+    }
+  },
+  "unparsedCommitmentsWarning": "Не удалось определить время для: {lines} — не будет заблокировано.",
+  "@unparsedCommitmentsWarning": {
+    "placeholders": {
+      "lines": {
+        "type": "String"
+      }
+    }
+  },
+  "weekdayMon": "Понедельник",
+  "weekdayTue": "Вторник",
+  "weekdayWed": "Среда",
+  "weekdayThu": "Четверг",
+  "weekdayFri": "Пятница",
+  "weekdaySat": "Суббота",
+  "weekdaySun": "Воскресенье",
+  "monthJan": "января",
+  "monthFeb": "февраля",
+  "monthMar": "марта",
+  "monthApr": "апреля",
+  "monthMay": "мая",
+  "monthJun": "июня",
+  "monthJul": "июля",
+  "monthAug": "августа",
+  "monthSep": "сентября",
+  "monthOct": "октября",
+  "monthNov": "ноября",
+  "monthDec": "декабря",
+  "monthShortJan": "янв",
+  "monthShortFeb": "февр",
+  "monthShortMar": "мар",
+  "monthShortApr": "апр",
+  "monthShortMay": "мая",
+  "monthShortJun": "июн",
+  "monthShortJul": "июл",
+  "monthShortAug": "авг",
+  "monthShortSep": "сент",
+  "monthShortOct": "окт",
+  "monthShortNov": "нояб",
+  "monthShortDec": "дек",
+  "periodAm": "утра",
+  "periodPm": "вечера",
+  "couldntLoadAppsError": "Не удалось загрузить приложения. Попробуйте снова.",
+  "retryLabel": "Повторить",
+  "searchAppsHint": "Поиск приложений",
+  "onboardingWelcomeTitle": "Добро пожаловать в Meridian",
+  "onboardingWelcomeSubtitle": "Ваш день, спланированный осознанно — задачи, привычки и фокусировка в одном месте.",
+  "onboardingPlanTitle": "Планируйте день, затем фокусируйтесь",
+  "onboardingPlanSubtitle": "Составьте план дня в Планировщике, затем используйте Режим фокусировки, чтобы работать над одной задачей за раз — без отвлечений.",
+  "onboardingHabitsTitle": "Формируйте устойчивые привычки",
+  "onboardingHabitsSubtitle": "Отслеживайте привычки и находите реальные закономерности в Аналитике — настоящее понимание того, как вы работаете, а не просто графики.",
+  "onboardingNotifTitle": "Оставайтесь в курсе",
+  "onboardingNotifSubtitle": "Meridian может бережно напоминать о задачах, привычках и плане на день — только то, что вы включите сами, не больше.",
+  "onboardingNextButton": "Далее",
+  "onboardingGetStartedButton": "Начать",
+  "enableNotificationsButton": "Включить уведомления",
+  "notNowButton": "Не сейчас",
+  "perHabitBreakdownLabel": "Разбивка по привычкам",
+  "missedDaysLabel": "Пропущено {missed} из {total} дней",
+  "@missedDaysLabel": {
+    "placeholders": {
+      "missed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "averageDelayDaysLabel": "Средняя задержка (дни)",
+  "byCategoryLabel": "По категории",
+  "byPriorityLabel": "По приоритету",
+  "currentlyOverdueLabel": "{count} просрочено сейчас",
+  "@currentlyOverdueLabel": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
+}

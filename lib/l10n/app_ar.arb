@@ -1,0 +1,894 @@
+{
+  "@@locale": "ar",
+  "navToday": "اليوم",
+  "navPlanner": "المخطط",
+  "navFocus": "التركيز",
+  "navTasks": "المهام",
+  "navHabits": "العادات",
+  "settings": "الإعدادات",
+  "planMyDay": "تخطيط يومي",
+  "focusMode": "وضع التركيز",
+  "language": "اللغة",
+  "systemDefault": "لغة النظام",
+  "localization": "اللغة والتوطين",
+  "focusDuration": "مدة التركيز",
+  "minUnit": "د",
+  "breakDuration": "مدة الاستراحة",
+  "notifications": "الإشعارات",
+  "taskReminders": "تذكيرات المهام",
+  "taskRemindersSub": "نبّهني قبل 10 دقائق من بدء المهمة.",
+  "habitReminders": "تذكيرات العادات",
+  "dailyPlanning": "التخطيط اليومي",
+  "dailyPlanningSub": "تنبيهات صباحية ومسائية لتخطيط يومك ومراجعته.",
+  "resourcesTitle": "الموارد",
+  "resourcesSubtitle": "احفظ دوراتك ووثائقك وروابطك المفيدة في مكان واحد.",
+  "resourcesEmptyTitle": "لا توجد موارد بعد.",
+  "addResourceButton": "إضافة مورد",
+  "todayWord": "اليوم",
+  "editLabel": "تعديل",
+  "deleteLabel": "حذف",
+  "cancelLabel": "إلغاء",
+  "saveLabel": "حفظ",
+  "addWord": "إضافة",
+  "optionalLabel": "اختياري",
+  "habitsTitle": "العادات",
+  "habitsSubtitle": "أفعال صغيرة متكررة — تُتابع يوميًا.",
+  "habitsEmptyTitle": "لا توجد عادات بعد.",
+  "habitsEmptySubtitle": "تابع شيئًا صغيرًا تريد فعله كل يوم — سيبني Meridian سلسلة الإنجاز نيابة عنك.",
+  "addHabitButton": "إضافة عادة",
+  "habitDeleteTitle": "حذف هذه العادة؟",
+  "dailyLabel": "يومي",
+  "streakLabel": "التتابع",
+  "bestLabel": "الأفضل",
+  "day30Label": "٣٠ يوم",
+  "doneTodayLabel": "أُنجز اليوم",
+  "markDoneTodayLabel": "وضع علامة أُنجز اليوم",
+  "daysAgo30Label": "قبل ٣٠ يوم",
+  "categoryStudy": "دراسة",
+  "categoryWork": "عمل",
+  "categoryPersonal": "شخصي",
+  "categoryHealth": "صحة",
+  "categoryProject": "مشروع",
+  "priorityLow": "منخفضة",
+  "priorityMedium": "متوسطة",
+  "priorityHigh": "عالية",
+  "priorityUrgent": "عاجلة",
+  "statusTodo": "للقيام به",
+  "statusInProgress": "قيد التنفيذ",
+  "statusCompleted": "مكتملة",
+  "statusSkipped": "متخطاة",
+  "tasksTitle": "المهام",
+  "anyDateFilter": "أي تاريخ",
+  "upcomingFilter": "قادمة",
+  "pastFilter": "سابقة",
+  "allFilter": "الكل",
+  "openFilter": "مفتوحة",
+  "allCategoriesFilter": "كل الفئات",
+  "tasksEmptyTitle": "قائمة مهامك فارغة.",
+  "tasksEmptySubtitle": "أنشئ أول مهمة لك، أو جرّب ميزة تخطيط يومي من الشاشة الرئيسية.",
+  "createTaskButton": "إنشاء مهمة",
+  "tasksNoMatchTitle": "لا توجد مهام مطابقة لهذه الفلاتر.",
+  "tasksNoMatchSubtitle": "جرّب حالة أو فئة أو نطاق تاريخ مختلف.",
+  "taskDeleteTitle": "حذف هذه المهمة؟",
+  "openLinkLabel": "فتح الرابط",
+  "greetingMorning": "صباح الخير.",
+  "greetingAfternoon": "طاب نهارك.",
+  "greetingEvening": "مساء الخير.",
+  "dashboardSubtitleEvening": "كيف كان يومك؟",
+  "dashboardSubtitleDay": "لنجعل هذا اليوم مهمًا.",
+  "dayReviewButton": "مراجعة اليوم",
+  "focusTimeLabel": "وقت التركيز",
+  "scoreLabel": "النتيجة",
+  "dashboardClearTitle": "يومك خالٍ من المهام.",
+  "dashboardClearSubtitle": "جاهز لتحقيق شيء اليوم؟",
+  "todaysScheduleTitle": "جدول اليوم",
+  "openPlannerButton": "فتح المخطط",
+  "scheduleEmptyText": "لا يوجد شيء متبقٍ في جدول اليوم.",
+  "startFocusButton": "ابدأ التركيز",
+  "periodMorning": "الصباح",
+  "periodAfternoon": "بعد الظهر",
+  "periodEvening": "المساء",
+  "periodNight": "الليل",
+  "plannerTitle": "المخطط",
+  "plannerHint": "اضغط مطولاً على الكتلة لتحريكها، أو على حافتها السفلية لتغيير حجمها.",
+  "previousDayTooltip": "اليوم السابق",
+  "nextDayTooltip": "اليوم التالي",
+  "jumpToTodayTooltip": "الانتقال لليوم",
+  "plannerEmptySubtitle": "اضغط أي فترة زمنية أدناه لتحديد وقت لمهمة.",
+  "urgentBadge": "عاجل",
+  "timeBlockDeleteTitle": "حذف هذه الفترة الزمنية؟",
+  "overlapErrorToast": "يتداخل هذا مع فترة أخرى — جرّب وقتًا مختلفًا",
+  "focusSubtitleFocus": "مهمة واحدة. تركيز كامل.",
+  "focusSubtitleBreak": "ابتعد قليلاً لحظة.",
+  "blockDistractingAppsTitle": "حظر التطبيقات المشتتة",
+  "workingOnLabel": "أعمل على",
+  "noTasksFreeSession": "لا توجد مهام متبقية — جلسة حرة",
+  "focusPhaseLabel": "تركيز",
+  "breakPhaseLabel": "استراحة",
+  "freeSessionLabel": "جلسة حرة",
+  "startButtonLabel": "ابدأ",
+  "resumeButtonLabel": "استئناف",
+  "pauseButtonLabel": "إيقاف مؤقت",
+  "resetButtonLabel": "إعادة ضبط",
+  "skipButtonLabel": "تخطي",
+  "completeButtonLabel": "إكمال",
+  "customPresetLabel": "مخصص",
+  "focusFieldLabel": "التركيز",
+  "breakFieldLabel": "الاستراحة",
+  "yourTaskFallback": "مهمتك",
+  "focusCompleteNotifTitle": "انتهت جلسة التركيز 🎉",
+  "breakOverToast": "انتهت الاستراحة — جاهز لجولة أخرى؟",
+  "breakOverNotifTitle": "انتهت الاستراحة",
+  "breakOverNotifBody": "جاهز لجولة أخرى؟",
+  "blockAppsTitle": "حظر التطبيقات",
+  "noAppsFound": "لم يتم العثور على تطبيقات",
+  "permissionsRequiredTitle": "الأذونات مطلوبة",
+  "accessibilityPermissionExplanation": "يحتاج Meridian إلى إذن إمكانية الوصول (Accessibility) في أندرويد لاكتشاف فتح تطبيق محظور أثناء جلسة تركيز.\n\nنحن لا نقرأ محتوى شاشتك.",
+  "openAndroidSettingsButton": "فتح إعدادات أندرويد",
+  "settingsSubtitle": "اضبط Meridian ليتناسب مع أسلوب عملك.",
+  "languageEffectImmediate": "تسري اللغة فورًا.",
+  "appearanceTitle": "المظهر",
+  "themeLabel": "السمة",
+  "themeDescription": "كلا الوضعين مصمم بعناية، وليس مجرد عكس ألوان.",
+  "darkLabel": "داكن",
+  "lightLabel": "فاتح",
+  "systemLabel": "النظام",
+  "timeFormatLabel": "تنسيق الوقت",
+  "timeFormatDescription": "كيفية عرض الأوقات في التطبيق.",
+  "format12h": "١٢ ساعة",
+  "format24h": "٢٤ ساعة",
+  "weekStartsLabel": "يبدأ الأسبوع من",
+  "weekStartsDescription": "يؤثر على العروض والمراجعات الأسبوعية.",
+  "sundayLabel": "الأحد",
+  "mondayLabel": "الاثنين",
+  "pomodoroFocusDescription": "يُستخدم لإعداد بومودورو المخصص.",
+  "pomodoroBreakDescription": "يُطبَّق بعد كل جلسة تركيز مخصصة.",
+  "focusNotificationsLabel": "إشعارات جلسة التركيز",
+  "focusNotificationsDescription": "احصل على إشعار عند انتهاء مؤقت التركيز أو الاستراحة، حتى لو لم يكن Meridian التطبيق المفتوح حاليًا.",
+  "onLabel": "تشغيل",
+  "offLabel": "إيقاف",
+  "habitRemindersDescription": "حدد وقتًا لكل عادة من شاشة تعديلها؛ هذا هو المفتاح الرئيسي.",
+  "morningReminderHourLabel": "ساعة تذكير الصباح",
+  "eveningReminderHourLabel": "ساعة تذكير المساء",
+  "clock24hDescription": "نظام ٢٤ ساعة.",
+  "hourUnit": "س",
+  "yourDataTitle": "بياناتك",
+  "dataPrivacyText": "يخزّن Meridian كل شيء محليًا على هذا الجهاز — لا يوجد حساب ولا يُرفع أي شيء لأي مكان. صدّر نسخة احتياطية بشكل دوري، خصوصًا قبل إلغاء التثبيت أو تبديل الجهاز.",
+  "exportBackupButton": "تصدير نسخة احتياطية",
+  "importBackupButton": "استيراد نسخة احتياطية",
+  "loadExampleDataButton": "تحميل بيانات تجريبية",
+  "resetAllDataTitle": "إعادة ضبط جميع البيانات المحلية؟",
+  "resetAllDataDescription": "سيؤدي هذا إلى حذف كل مهمة وعادة وجلسة تركيز ومراجعة مخزّنة على هذا الجهاز نهائيًا. يُستحسن تصدير نسخة احتياطية أولاً.",
+  "resetEverythingButton": "إعادة ضبط الكل",
+  "resetAllDataButtonLabel": "إعادة ضبط جميع البيانات المحلية",
+  "aboutTitle": "حول",
+  "versionLabel": "الإصدار",
+  "storageLabel": "التخزين",
+  "storageValue": "على هذا الجهاز فقط",
+  "accountsLabel": "الحسابات",
+  "accountsValue": "لا يوجد — لا شيء لتسجيل الدخول إليه",
+  "backupReadyToast": "النسخة الاحتياطية جاهزة للحفظ",
+  "backupCreateErrorToast": "تعذّر إنشاء ملف النسخة الاحتياطية.",
+  "restoreBackupTitle": "استعادة هذه النسخة الاحتياطية؟",
+  "restoreBackupDescription": "سيؤدي هذا إلى استبدال جميع المهام والعادات والإعدادات الحالية بمحتوى ملف النسخة الاحتياطية. لا يمكن التراجع عن هذا.",
+  "restoreLabel": "استعادة",
+  "backupRestoredToast": "تمت استعادة النسخة الاحتياطية",
+  "couldntReadFileError": "تعذّر قراءة هذا الملف.",
+  "notificationsOffFocusToast": "الإشعارات متوقفة من إعدادات هاتفك — فعّلها من هناك إذا كنت تريد تنبيهات التركيز.",
+  "notificationsOffTaskToast": "الإشعارات متوقفة من إعدادات هاتفك — فعّلها من هناك إذا كنت تريد تذكيرات المهام.",
+  "notificationsOffHabitToast": "الإشعارات متوقفة من إعدادات هاتفك — فعّلها من هناك إذا كنت تريد تذكيرات العادات.",
+  "notificationsOffDailyPlanningToast": "الإشعارات متوقفة من إعدادات هاتفك — فعّلها من هناك إذا كنت تريد تذكيرات التخطيط اليومي.",
+  "analyticsTitle": "التحليلات",
+  "analyticsSubtitle": "كيف تحرك وقتك فعليًا.",
+  "thisWeekFilter": "هذا الأسبوع",
+  "thisMonthFilter": "هذا الشهر",
+  "productivityScoreLabel": "درجة الإنتاجية",
+  "completionRateLabel": "معدل الإنجاز",
+  "avgSessionLabel": "متوسط الجلسة",
+  "executionConsistencyTitle": "التنفيذ والاستمرارية",
+  "executionConsistencySubtitle": "المهام المخطط لها مقابل المكتملة والالتزام بالعادات",
+  "focusTimeTrendTitle": "اتجاه وقت التركيز",
+  "todaysFocusBySession": "تركيز اليوم، حسب الجلسة",
+  "last7DaysLabel": "آخر ٧ أيام",
+  "last28DaysLabel": "آخر ٢٨ يومًا",
+  "categoryDistributionTitle": "توزيع الفئات",
+  "allActiveTasksLabel": "كل المهام النشطة",
+  "categoryBreakdownRangeLabel": "المهام · {range}",
+  "@categoryBreakdownRangeLabel": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "plannedVsActualTimeLabel": "الوقت المخطط مقابل الفعلي ({planned} مخطط · {actual} فعلي)",
+  "@plannedVsActualTimeLabel": {
+    "placeholders": {
+      "planned": {
+        "type": "String"
+      },
+      "actual": {
+        "type": "String"
+      }
+    }
+  },
+  "completedVsSkippedTitle": "المكتمل مقابل المتخطى",
+  "dailyBreakdownLabel": "التفصيل اليومي",
+  "habitCompletionLabel": "إنجاز العادات",
+  "noFocusSessionsToday": "لا توجد جلسات تركيز مسجلة اليوم بعد.",
+  "noTasksYet": "لا توجد مهام بعد",
+  "tasksWord": "مهام",
+  "noHabitsYetShort": "لا توجد عادات بعد",
+  "avgHabitConsistencyLabel": "متوسط الالتزام بالعادات",
+  "taskDelaysTitle": "تأخيرات المهام",
+  "noPostponedTasksSubtitle": "لا توجد مهام مؤجلة بعد. عمل رائع!",
+  "patternsInPostponedTasks": "أنماط المهام المؤجلة",
+  "delayedTasksLabel": "المهام المؤجلة",
+  "mostDelayedLabel": "الأكثر تأجيلاً",
+  "habitCommitmentTitle": "الالتزام بالعادات",
+  "habitCommitmentSubtitle": "رؤى حول التزامك اليومي",
+  "mostConsistentLabel": "الأكثر ثباتًا",
+  "needsAttentionLabel": "تحتاج اهتمامًا",
+  "addHabitsToSeePatterns": "أضف بعض العادات لرؤية أنماط التزامك.",
+  "notEnoughFocusData": "لا توجد بيانات تركيز كافية بعد.",
+  "notEnoughDailyReviews": "لا توجد مراجعات يومية كافية بعد.",
+  "noTasksPostponed": "لم يتم تأجيل أي مهام.",
+  "productivityPatternsTitle": "أنماط الإنتاجية",
+  "observedBehavioralTrends": "اتجاهات سلوكية ملحوظة (مبنية على البيانات)",
+  "dayNameMondayInSentence": "الاثنين",
+  "dayNameTuesdayInSentence": "الثلاثاء",
+  "dayNameWednesdayInSentence": "الأربعاء",
+  "dayNameThursdayInSentence": "الخميس",
+  "dayNameFridayInSentence": "الجمعة",
+  "dayNameSaturdayInSentence": "السبت",
+  "dayNameSundayInSentence": "الأحد",
+  "productivityInsightsTitle": "رؤى الإنتاجية",
+  "whatRecentActivitySuggests": "ما يوحي به نشاطك الأخير",
+  "keepUsingMeridianInsight": "استمر باستخدام Meridian لبضعة أيام إضافية — ستظهر الرؤى هنا بمجرد توفر بيانات كافية لرصد أنماط حقيقية.",
+  "periodMorningLower": "الصباح",
+  "periodAfternoonLower": "بعد الظهر",
+  "periodEveningLower": "المساء",
+  "periodNightLower": "الليل",
+  "urgentTaskWordSingular": "مهمة عاجلة",
+  "urgentTaskWordPlural": "مهام عاجلة",
+  "resourceNoLinkError": "لا يحتوي هذا المورد على رابط.",
+  "resourceInvalidLinkError": "لا يبدو هذا الرابط صالحًا.",
+  "resourceOpenLinkError": "تعذّر فتح هذا الرابط.",
+  "editResourceLabel": "تعديل المورد",
+  "deleteResourceLabel": "حذف المورد",
+  "resourceDeleteTitle": "حذف هذا المورد؟",
+  "resourceGiveTitleError": "أعطِ هذا المورد عنوانًا.",
+  "resourceProvideUrlError": "أدخل رابطًا لهذا المورد.",
+  "resourceSelectImageError": "يرجى اختيار صورة.",
+  "resourceSaveImageError": "فشل حفظ الصورة.",
+  "editResourceModalTitle": "تعديل المورد",
+  "coverImageLabel": "صورة الغلاف",
+  "tapToSelectImage": "اضغط لاختيار صورة (اختياري)",
+  "titleLabel": "العنوان",
+  "urlLabel": "الرابط",
+  "descriptionOptionalLabel": "الوصف (اختياري)",
+  "resourceTitleHint": "مثال: دورة Flutter الاحترافية",
+  "resourceUrlHint": "مثال: https://example.com/course",
+  "resourceDescHint": "مثال: دليل شامل لـ Flutter",
+  "saveChangesButton": "حفظ التغييرات",
+  "taskGiveTitleError": "أعطِ هذه المهمة عنوانًا.",
+  "taskInvalidLinkError": "لا يبدو هذا الرابط عنوان URL صالحًا.",
+  "editTaskModalTitle": "تعديل المهمة",
+  "newTaskModalTitle": "مهمة جديدة",
+  "taskTitleHint": "مثال: عمل عميق — مسودة الأطروحة",
+  "dateLabel": "التاريخ",
+  "categoryLabelField": "الفئة",
+  "priorityLabelField": "الأولوية",
+  "statusLabelField": "الحالة",
+  "startHourLabel": "ساعة البدء",
+  "minuteLabel": "الدقيقة",
+  "durationMinLabel": "المدة (دقيقة)",
+  "linkLabel": "الرابط",
+  "taskLinkHint": "مثال: coursera.org/learn/your-course",
+  "notesLabel": "ملاحظات",
+  "yesDeleteLabel": "نعم، احذف",
+  "addToDayButton": "أضف لليوم",
+  "habitGiveNameError": "أعطِ هذه العادة اسمًا.",
+  "editHabitModalTitle": "تعديل العادة",
+  "newHabitModalTitle": "عادة جديدة",
+  "nameLabel": "الاسم",
+  "habitNameHint": "مثال: الجري الصباحي",
+  "iconLabel": "الأيقونة",
+  "colorLabel": "اللون",
+  "reminderLabel": "التذكير",
+  "noReminderLabel": "بدون تذكير",
+  "topPrioritiesQuestion": "ما هي أولوياتك الرئيسية لهذا اليوم؟",
+  "priorityHint1": "مثال: إنهاء الفصل الثالث من الأطروحة",
+  "continueButton": "متابعة",
+  "fixedCommitmentsLabel": "التزامات ثابتة اليوم (اختياري)",
+  "commitmentsHintExample": "واحد في كل سطر، مثال: \"1م - 2م غداء مع المشرف\"",
+  "commitmentsFieldPlaceholder": "9ص - 10ص اجتماع يومي\n1م-2م غداء",
+  "backButton": "رجوع",
+  "generateScheduleButton": "إنشاء الجدول",
+  "addToMyDayButton": "أضف ليومي",
+  "endOfDayReviewTitle": "مراجعة نهاية اليوم",
+  "tasksDoneStatLabel": "المهام المنجزة",
+  "focusedStatLabel": "التركيز",
+  "whatWentWellLabel": "ما الذي سار بشكل جيد اليوم؟",
+  "whatCouldImproveLabel": "ما الذي يمكن تحسينه؟",
+  "saveReflectionButton": "حفظ التأمل",
+  "exitMeridianTitle": "الخروج من Meridian؟",
+  "exitMeridianDesc": "هل أنت متأكد أنك تريد الخروج من Meridian؟",
+  "exitLabel": "خروج",
+  "notCompletedSemanticLabel": "غير مكتمل",
+  "doubleTapMarkNotDone": "انقر مرتين للتعليم كغير منجز",
+  "doubleTapMarkDone": "انقر مرتين للتعليم كمنجز",
+  "dataCorruptedRecoveredToast": "تعذّرت قراءة بياناتك المحفوظة وتمت إعادة ضبطها. إذا كانت لديك نسخة احتياطية، يمكنك استعادتها من الإعدادات.",
+  "saveFailedToast": "تعذّر حفظ تغييراتك — قد تكون مساحة التخزين على جهازك منخفضة.",
+  "resourceUpdatedToast": "تم تحديث المورد",
+  "reflectionSavedToast": "تم حفظ التأمل",
+  "allDataResetToast": "تمت إعادة ضبط جميع البيانات المحلية",
+  "exampleDataLoadedToast": "تم تحميل البيانات التجريبية",
+  "startingSoonNotifTitle": "يبدأ قريبًا",
+  "habitReminderNotifTitle": "تذكير بالعادة",
+  "goodMorningNotifTitle": "صباح الخير",
+  "readyToPlanBody": "جاهز لتخطيط يومك؟",
+  "dayAlmostOverNotifTitle": "اليوم يوشك على الانتهاء",
+  "takeMomentReviewBody": "خذ لحظة لمراجعة كيف سار يومك.",
+  "breakTaskTitle": "استراحة",
+  "focusBlockFallback": "كتلة تركيز",
+  "generatedByPlanMyDayNote": "تم إنشاؤها بواسطة تخطيط يومي",
+  "continuedSuffix": " (تابع)",
+  "viewAllLabel": "عرض الكل",
+  "yourNameLabel": "اسمك",
+  "yourNameDescription": "يُستخدم لتخصيص الترحيب بالشاشة الرئيسية.",
+  "yourNameHint": "مثال: سامر",
+  "profileTitle": "الملف الشخصي",
+  "addNameBannerText": "ضيف اسمك لترحيب أشخص أكتر",
+  "noThanksLabel": "لأ، شكرًا",
+  "whatShouldWeCallYouTitle": "شو نسميك؟",
+  "overdueBadge": "متأخرة",
+  "jumpToNowTooltip": "الانتقال للوقت الحالي",
+  "noTimeLeftTodayMessage": "لا يوجد وقت متبقٍ بجدول اليوم للتخطيط حوله — جرّب يومًا آخر، أو أضف مهمة مباشرة من المخطط.",
+  "addAnotherPriorityLabel": "أضف أولوية أخرى",
+  "taskInvalidDurationError": "أدخل مدة صالحة بالدقائق (١ - ١٤٤٠).",
+  "searchTasksHint": "ابحث بالمهام...",
+  "habitRemindersOffWarning": "تذكيرات العادات مطفأة من الإعدادات — هاد التذكير ما رح ينبّهك لحد ما تفعّلها.",
+  "turnOnLabel": "تفعيل",
+  "pauseHabitLabel": "إيقاف مؤقت",
+  "pausedHabitsTitle": "متوقفة مؤقتًا",
+  "resetSessionTitle": "إعادة ضبط هذه الجلسة؟",
+  "resetSessionDesc": "سيضيع تقدمك بهذه الجلسة.",
+  "searchResourcesHint": "ابحث بالموارد...",
+  "resourcesNoMatchTitle": "لا توجد موارد مطابقة لبحثك.",
+  "thisWeekSoFarLabel": "هذا الأسبوع",
+  "backupErrorInvalidJson": "هذا الملف ليس بصيغة JSON صالحة.",
+  "backupErrorNotABackup": "هذا الملف لا يبدو نسخة احتياطية من Meridian.",
+  "backupErrorWrongApp": "هذا الملف لم يُصدَّر من Meridian.",
+  "backupErrorMissingData": "ملف النسخة الاحتياطية هذا ناقص بياناته.",
+  "backupErrorCorruptData": "بيانات ملف النسخة الاحتياطية هذا ناقصة أو تالفة.",
+  "habitDeleteDescStreak": "سيتم حذف \"{name}\" وسلسلة الإنجاز المكوّنة من {days} يوم نهائيًا.",
+  "@habitDeleteDescStreak": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "habitDeleteDescHistory": "سيتم حذف \"{name}\" وسجلّها نهائيًا.",
+  "@habitDeleteDescHistory": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "tasksSummary": "{total} إجمالي · {completed} مكتملة",
+  "@tasksSummary": {
+    "placeholders": {
+      "total": {
+        "type": "int"
+      },
+      "completed": {
+        "type": "int"
+      }
+    }
+  },
+  "taskDeleteDesc": "سيتم حذف \"{title}\" نهائيًا.",
+  "@taskDeleteDesc": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "upNextLabel": "التالي · {start} → {end}",
+  "@upNextLabel": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "habitStreakDays": "{count} يوم متتالي",
+  "@habitStreakDays": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "tasksDoneLabel": "{completed} / {total} مهام مكتملة",
+  "@tasksDoneLabel": {
+    "placeholders": {
+      "completed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "timeBlockDeleteDesc": "سيتم إزالة \"{title}\" من مخططك.",
+  "@timeBlockDeleteDesc": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "appsSelectedCount": "{count} تطبيق محدد",
+  "@appsSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "focusCompleteToast": "انتهت جلسة التركيز 🎉 — {mins} دقيقة على \"{title}\"",
+  "@focusCompleteToast": {
+    "placeholders": {
+      "mins": {
+        "type": "int"
+      },
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "focusCompleteNotifBody": "{mins} دقيقة على \"{title}\" — عمل رائع.",
+  "@focusCompleteNotifBody": {
+    "placeholders": {
+      "mins": {
+        "type": "int"
+      },
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesPerDayLabel": "الدقائق يوميًا · {range}",
+  "@minutesPerDayLabel": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "ofFocusTarget": "من هدف {hours} س للتركيز",
+  "@ofFocusTarget": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "pctOfTodaysTarget": "{pct}% من هدف اليوم",
+  "@pctOfTodaysTarget": {
+    "placeholders": {
+      "pct": {
+        "type": "int"
+      }
+    }
+  },
+  "minPerDayPoint": "{mins} دقيقة · {date}",
+  "@minPerDayPoint": {
+    "placeholders": {
+      "mins": {
+        "type": "int"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "plannedVsCompletedLabel": "المخطط مقابل المكتمل ({completed}/{total} مهام)",
+  "@plannedVsCompletedLabel": {
+    "placeholders": {
+      "completed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "overallPctLabel": "{pct}% إجمالاً",
+  "@overallPctLabel": {
+    "placeholders": {
+      "pct": {
+        "type": "int"
+      }
+    }
+  },
+  "peakFocusOccurs": "يحدث ذروة التركيز في {period} ({mins} دقيقة مسجلة).",
+  "@peakFocusOccurs": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      },
+      "mins": {
+        "type": "int"
+      }
+    }
+  },
+  "highestCompletionRateDay": "أعلى معدل لإنجاز المهام عادة يكون يوم {day} ({pct}%).",
+  "@highestCompletionRateDay": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "pct": {
+        "type": "int"
+      }
+    }
+  },
+  "postponingPriorityTasks": "غالبًا ما يتم تأجيل المهام ذات أولوية '{priority}' ({count} مرة).",
+  "@postponingPriorityTasks": {
+    "placeholders": {
+      "priority": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "completionUpInsight": "ارتفع معدل إنجاز مهامك بنسبة {diff}% هذا الأسبوع مقارنة بالأسبوع الماضي — أيًا كان ما تغيّر، استمر عليه.",
+  "@completionUpInsight": {
+    "placeholders": {
+      "diff": {
+        "type": "int"
+      }
+    }
+  },
+  "completionDownInsight": "انخفض معدل إنجاز مهامك بنسبة {diff}% مقارنة بالأسبوع الماضي.",
+  "@completionDownInsight": {
+    "placeholders": {
+      "diff": {
+        "type": "int"
+      }
+    }
+  },
+  "completionSteadyInsight": "معدل إنجاز مهامك ثابت أسبوعًا بعد أسبوع ({pct}%).",
+  "@completionSteadyInsight": {
+    "placeholders": {
+      "pct": {
+        "type": "int"
+      }
+    }
+  },
+  "strongestHabitStreak": "{emoji} '{name}' في سلسلة إنجاز مدتها {days} يوم — أقوى عاداتك حاليًا.",
+  "@strongestHabitStreak": {
+    "placeholders": {
+      "emoji": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      },
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "lapsedHabitInsight": "{emoji} '{name}' عادة ما تكون ثابتة ({pct}% إجمالاً) لكن لم تُسجَّل في اليومين الماضيين.",
+  "@lapsedHabitInsight": {
+    "placeholders": {
+      "emoji": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      },
+      "pct": {
+        "type": "int"
+      }
+    }
+  },
+  "goodAlignmentInsight": "توافق جيد: تجدول معظم مهامك في {period}، وهو أيضًا الوقت الذي تطول فيه جلسات تركيزك.",
+  "@goodAlignmentInsight": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "misalignedFocusInsight": "تركيزك يكون في أفضل حالاته في {focusPeriod}، لكن معظم المهام المكتملة مجدولة في {taskPeriod}. جرّب نقل العمل المهم إلى نافذتك الأفضل.",
+  "@misalignedFocusInsight": {
+    "placeholders": {
+      "focusPeriod": {
+        "type": "String"
+      },
+      "taskPeriod": {
+        "type": "String"
+      }
+    }
+  },
+  "urgentTaskPostponedSingular": "'{title}' عاجلة، وما زالت مفتوحة، وتم تأجيلها مرة واحدة بالفعل — تستحق المعالجة القادمة.",
+  "@urgentTaskPostponedSingular": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "urgentTasksPostponedPlural": "'{title}' و{extra} {taskWord} أخرى تم تأجيلها بالفعل وما زالت مفتوحة.",
+  "@urgentTasksPostponedPlural": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "extra": {
+        "type": "int"
+      },
+      "taskWord": {
+        "type": "String"
+      }
+    }
+  },
+  "priorityFieldLabel": "الأولوية {n}",
+  "@priorityFieldLabel": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursAvailableLabel": "الساعات المتاحة للعمل المركّز: {hours} س",
+  "@hoursAvailableLabel": {
+    "placeholders": {
+      "hours": {
+        "type": "String"
+      }
+    }
+  },
+  "blocksGeneratedReview": "تم إنشاء {count} كتلة — راجعها قبل إضافتها ليومك.",
+  "@blocksGeneratedReview": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "durationMinutesLabel": "{mins} دقيقة",
+  "@durationMinutesLabel": {
+    "placeholders": {
+      "mins": {
+        "type": "int"
+      }
+    }
+  },
+  "blocksAddedToast": "تمت إضافة {count} كتلة ليومك",
+  "@blocksAddedToast": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "itemAddedToDayToast": "تمت إضافة \"{title}\" ليومك",
+  "@itemAddedToDayToast": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "itemRemovedToast": "تمت إزالة \"{title}\"",
+  "@itemRemovedToast": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "taskCompleteToast": "اكتملت \"{title}\"",
+  "@taskCompleteToast": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "habitAddedToast": "تمت إضافة \"{name}\" لعاداتك",
+  "@habitAddedToast": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "habitLoggedTodayToast": "{emoji} تم تسجيل \"{name}\" لليوم",
+  "@habitLoggedTodayToast": {
+    "placeholders": {
+      "emoji": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "resourceAddedToast": "تمت إضافة \"{title}\" للموارد",
+  "@resourceAddedToast": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "taskStartsInBody": "\"{title}\" تبدأ خلال {mins} دقيقة.",
+  "@taskStartsInBody": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "mins": {
+        "type": "int"
+      }
+    }
+  },
+  "timeForHabitBody": "حان وقت \"{name}\".",
+  "@timeForHabitBody": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "moreItemsLabel": "+{count} أخرى",
+  "@moreItemsLabel": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "greetingMorningNamed": "صباح الخير، {name}.",
+  "@greetingMorningNamed": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "greetingAfternoonNamed": "طاب نهارك، {name}.",
+  "@greetingAfternoonNamed": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "greetingEveningNamed": "مساء الخير، {name}.",
+  "@greetingEveningNamed": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "trendVsYesterday": "{delta} مقارنة بالأمس",
+  "@trendVsYesterday": {
+    "placeholders": {
+      "delta": {
+        "type": "String"
+      }
+    }
+  },
+  "minimumTimeWarning": "بوجود {count} أولويات، كل وحدة بتاخد ٣٠ دقيقة على الأقل — يعني {neededHours} ساعة بالمجموع، أكتر من الـ {setHours} ساعة يلي حددتها.",
+  "@minimumTimeWarning": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "neededHours": {
+        "type": "String"
+      },
+      "setHours": {
+        "type": "String"
+      }
+    }
+  },
+  "unparsedCommitmentsWarning": "ما قدرنا نفهم وقت لـ: {lines} — ما رح تُحجز بالجدول.",
+  "@unparsedCommitmentsWarning": {
+    "placeholders": {
+      "lines": {
+        "type": "String"
+      }
+    }
+  },
+  "weekdayMon": "الاثنين",
+  "weekdayTue": "الثلاثاء",
+  "weekdayWed": "الأربعاء",
+  "weekdayThu": "الخميس",
+  "weekdayFri": "الجمعة",
+  "weekdaySat": "السبت",
+  "weekdaySun": "الأحد",
+  "monthJan": "يناير",
+  "monthFeb": "فبراير",
+  "monthMar": "مارس",
+  "monthApr": "أبريل",
+  "monthMay": "مايو",
+  "monthJun": "يونيو",
+  "monthJul": "يوليو",
+  "monthAug": "أغسطس",
+  "monthSep": "سبتمبر",
+  "monthOct": "أكتوبر",
+  "monthNov": "نوفمبر",
+  "monthDec": "ديسمبر",
+  "monthShortJan": "يناير",
+  "monthShortFeb": "فبراير",
+  "monthShortMar": "مارس",
+  "monthShortApr": "أبريل",
+  "monthShortMay": "مايو",
+  "monthShortJun": "يونيو",
+  "monthShortJul": "يوليو",
+  "monthShortAug": "أغسطس",
+  "monthShortSep": "سبتمبر",
+  "monthShortOct": "أكتوبر",
+  "monthShortNov": "نوفمبر",
+  "monthShortDec": "ديسمبر",
+  "periodAm": "ص",
+  "periodPm": "م",
+  "couldntLoadAppsError": "تعذّر تحميل تطبيقاتك. حاول مرة أخرى.",
+  "retryLabel": "إعادة المحاولة",
+  "searchAppsHint": "ابحث عن تطبيقات",
+  "onboardingWelcomeTitle": "مرحبًا بك في Meridian",
+  "onboardingWelcomeSubtitle": "يومك، منظَّمًا بعناية — المهام والعادات والتركيز، كل ذلك في مكان واحد.",
+  "onboardingPlanTitle": "خطّط يومك، ثم ركّز",
+  "onboardingPlanSubtitle": "رتّب يومك في المخطِّط، ثم استخدم وضع التركيز للعمل على شيء واحد في كل مرة، دون تشتيت.",
+  "onboardingHabitsTitle": "ابنِ عادات تدوم",
+  "onboardingHabitsSubtitle": "تتبّع عاداتك اليومية، وشاهد أنماطًا حقيقية في التحليلات — فهمًا فعليًا لطريقة عملك، لا مجرد رسوم بيانية.",
+  "onboardingNotifTitle": "ابقَ على المسار الصحيح",
+  "onboardingNotifSubtitle": "يمكن لتطبيق Meridian تذكيرك بلطف بالمهام والعادات وخطة يومك — فقط ما تفعّله أنت، لا أكثر.",
+  "onboardingNextButton": "التالي",
+  "onboardingGetStartedButton": "ابدأ الآن",
+  "enableNotificationsButton": "تفعيل الإشعارات",
+  "notNowButton": "ليس الآن",
+  "perHabitBreakdownLabel": "تفصيل كل عادة",
+  "missedDaysLabel": "فوّت {missed} من {total} أيام",
+  "@missedDaysLabel": {
+    "placeholders": {
+      "missed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "averageDelayDaysLabel": "متوسط التأخير (أيام)",
+  "byCategoryLabel": "حسب التصنيف",
+  "byPriorityLabel": "حسب الأولوية",
+  "currentlyOverdueLabel": "{count} متأخرة الآن",
+  "@currentlyOverdueLabel": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
+}

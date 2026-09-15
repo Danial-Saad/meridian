@@ -1,0 +1,6 @@
+include: package:flutter_lints/flutter.yaml
+
+# No custom rule overrides. This project was written and reviewed by hand
+# without running `flutter analyze` (see README -> "What I could not
+# verify"), so treat the first real analyze/build pass as expected to
+# surface a few lints worth a look, not necessarily bugs.

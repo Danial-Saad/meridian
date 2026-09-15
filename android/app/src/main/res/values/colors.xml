@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Matches MeridianColors.dark.bg exactly (#0A0A0E). Used by the
+         night-mode native launch background and its Android 12+
+         SplashScreen variant — see drawable-night/launch_background.xml
+         and values-night-v31/styles.xml. -->
+    <color name="launch_bg">#0A0A0E</color>
+    <!-- Matches the light theme's equivalent background. Used by the
+         default (light-mode) native launch background and its Android
+         12+ SplashScreen variant. -->
+    <color name="launch_bg_light">#F4F9FD</color>
+    <!-- Notification accent color (AndroidNotificationDetails.color) —
+         matches MeridianColors.light.primary, tints the small icon and
+         (on some OEM launchers) the notification's left accent bar. -->
+    <color name="notification_color">#0EA5E9</color>
+	<color name="ic_launcher_background">#FFFFFF</color>
+</resources>

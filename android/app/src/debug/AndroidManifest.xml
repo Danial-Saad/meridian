@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+      Debug/profile builds only. This is what lets `flutter run` and
+      DevTools attach to the app over the Dart VM service — it is not
+      present in release builds, so the shipped app still makes no network
+      calls of its own.
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>

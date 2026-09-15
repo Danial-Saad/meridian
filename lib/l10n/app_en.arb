@@ -1,0 +1,894 @@
+{
+  "@@locale": "en",
+  "navToday": "Today",
+  "navPlanner": "Planner",
+  "navFocus": "Focus",
+  "navTasks": "Tasks",
+  "navHabits": "Habits",
+  "settings": "Settings",
+  "planMyDay": "Plan my day",
+  "focusMode": "Focus Mode",
+  "language": "Language",
+  "systemDefault": "System Default",
+  "localization": "Localization",
+  "focusDuration": "Focus duration",
+  "minUnit": "min",
+  "breakDuration": "Break duration",
+  "notifications": "Notifications",
+  "taskReminders": "Task reminders",
+  "taskRemindersSub": "Notify me 10 minutes before a task starts.",
+  "habitReminders": "Habit reminders",
+  "dailyPlanning": "Daily planning",
+  "dailyPlanningSub": "Morning and evening nudges to plan your day and review it.",
+  "resourcesTitle": "Resources",
+  "resourcesSubtitle": "Save your courses, documentation and useful links in one place.",
+  "resourcesEmptyTitle": "No resources yet.",
+  "addResourceButton": "Add Resource",
+  "todayWord": "Today",
+  "editLabel": "Edit",
+  "deleteLabel": "Delete",
+  "cancelLabel": "Cancel",
+  "saveLabel": "Save",
+  "addWord": "Add",
+  "optionalLabel": "Optional",
+  "habitsTitle": "Habits",
+  "habitsSubtitle": "Small, repeated actions — tracked daily.",
+  "habitsEmptyTitle": "No habits yet.",
+  "habitsEmptySubtitle": "Track something small you want to do every day — Meridian will build the streak for you.",
+  "addHabitButton": "Add a habit",
+  "habitDeleteTitle": "Delete this habit?",
+  "dailyLabel": "Daily",
+  "streakLabel": "STREAK",
+  "bestLabel": "BEST",
+  "day30Label": "30-DAY",
+  "doneTodayLabel": "Done today",
+  "markDoneTodayLabel": "Mark done today",
+  "daysAgo30Label": "30 days ago",
+  "categoryStudy": "Study",
+  "categoryWork": "Work",
+  "categoryPersonal": "Personal",
+  "categoryHealth": "Health",
+  "categoryProject": "Project",
+  "priorityLow": "Low",
+  "priorityMedium": "Medium",
+  "priorityHigh": "High",
+  "priorityUrgent": "Urgent",
+  "statusTodo": "To do",
+  "statusInProgress": "In progress",
+  "statusCompleted": "Completed",
+  "statusSkipped": "Skipped",
+  "tasksTitle": "Tasks",
+  "anyDateFilter": "Any date",
+  "upcomingFilter": "Upcoming",
+  "pastFilter": "Past",
+  "allFilter": "All",
+  "openFilter": "Open",
+  "allCategoriesFilter": "All categories",
+  "tasksEmptyTitle": "Your task list is empty.",
+  "tasksEmptySubtitle": "Create your first task, or try Plan My Day from the Dashboard.",
+  "createTaskButton": "Create task",
+  "tasksNoMatchTitle": "No tasks match these filters.",
+  "tasksNoMatchSubtitle": "Try a different status, category, or date range.",
+  "taskDeleteTitle": "Delete this task?",
+  "openLinkLabel": "Open link",
+  "greetingMorning": "Good morning.",
+  "greetingAfternoon": "Good afternoon.",
+  "greetingEvening": "Good evening.",
+  "dashboardSubtitleEvening": "How did today go?",
+  "dashboardSubtitleDay": "Let's make today count.",
+  "dayReviewButton": "Day review",
+  "focusTimeLabel": "Focus time",
+  "scoreLabel": "Score",
+  "dashboardClearTitle": "Your day is clear.",
+  "dashboardClearSubtitle": "Ready to make something happen?",
+  "todaysScheduleTitle": "Today's schedule",
+  "openPlannerButton": "Open planner",
+  "scheduleEmptyText": "Nothing left on today's schedule.",
+  "startFocusButton": "Start focus",
+  "periodMorning": "Morning",
+  "periodAfternoon": "Afternoon",
+  "periodEvening": "Evening",
+  "periodNight": "Night",
+  "plannerTitle": "Planner",
+  "plannerHint": "Long-press a block to move it, its bottom edge to resize.",
+  "previousDayTooltip": "Previous day",
+  "nextDayTooltip": "Next day",
+  "jumpToTodayTooltip": "Jump to today",
+  "plannerEmptySubtitle": "Tap any slot below to time-block a task.",
+  "urgentBadge": "URGENT",
+  "timeBlockDeleteTitle": "Delete this time block?",
+  "overlapErrorToast": "That overlaps another block — try a different time",
+  "focusSubtitleFocus": "One task. Full attention.",
+  "focusSubtitleBreak": "Step away for a moment.",
+  "blockDistractingAppsTitle": "Block distracting apps",
+  "workingOnLabel": "Working on",
+  "noTasksFreeSession": "No tasks remaining — free session",
+  "focusPhaseLabel": "FOCUS",
+  "breakPhaseLabel": "BREAK",
+  "freeSessionLabel": "Free session",
+  "startButtonLabel": "Start",
+  "resumeButtonLabel": "Resume",
+  "pauseButtonLabel": "Pause",
+  "resetButtonLabel": "Reset",
+  "skipButtonLabel": "Skip",
+  "completeButtonLabel": "Complete",
+  "customPresetLabel": "Custom",
+  "focusFieldLabel": "Focus",
+  "breakFieldLabel": "Break",
+  "yourTaskFallback": "your task",
+  "focusCompleteNotifTitle": "Focus session complete 🎉",
+  "breakOverToast": "Break's over — ready for another round?",
+  "breakOverNotifTitle": "Break's over",
+  "breakOverNotifBody": "Ready for another round?",
+  "blockAppsTitle": "Block Apps",
+  "noAppsFound": "No apps found",
+  "permissionsRequiredTitle": "Permissions Required",
+  "accessibilityPermissionExplanation": "Meridian needs Android's Accessibility permission to detect when a blocked app is opened during a Focus session.\n\nWe do not read your screen content.",
+  "openAndroidSettingsButton": "Open Android Settings",
+  "settingsSubtitle": "Tune Meridian to how you actually work.",
+  "languageEffectImmediate": "Language takes effect immediately.",
+  "appearanceTitle": "Appearance",
+  "themeLabel": "Theme",
+  "themeDescription": "Both modes are designed intentionally, not inverted.",
+  "darkLabel": "Dark",
+  "lightLabel": "Light",
+  "systemLabel": "System",
+  "timeFormatLabel": "Time format",
+  "timeFormatDescription": "How times are displayed across the app.",
+  "format12h": "12-hour",
+  "format24h": "24-hour",
+  "weekStartsLabel": "Week starts on",
+  "weekStartsDescription": "Affects weekly views and reviews.",
+  "sundayLabel": "Sunday",
+  "mondayLabel": "Monday",
+  "pomodoroFocusDescription": "Used for the Custom Pomodoro preset.",
+  "pomodoroBreakDescription": "Applied after each custom focus session.",
+  "focusNotificationsLabel": "Focus session notifications",
+  "focusNotificationsDescription": "Get notified when a Focus or Break timer ends, even if Meridian isn't the app you're looking at.",
+  "onLabel": "On",
+  "offLabel": "Off",
+  "habitRemindersDescription": "Set a time per habit from its edit screen; this is the master switch.",
+  "morningReminderHourLabel": "Morning reminder hour",
+  "eveningReminderHourLabel": "Evening reminder hour",
+  "clock24hDescription": "24-hour clock.",
+  "hourUnit": "h",
+  "yourDataTitle": "Your data",
+  "dataPrivacyText": "Meridian stores everything locally on this device — there's no account and nothing is uploaded anywhere. Export a backup periodically, especially before uninstalling or switching devices.",
+  "exportBackupButton": "Export backup",
+  "importBackupButton": "Import backup",
+  "loadExampleDataButton": "Load example data",
+  "resetAllDataTitle": "Reset all local data?",
+  "resetAllDataDescription": "This permanently deletes every task, habit, focus session, and review stored on this device. Consider exporting a backup first.",
+  "resetEverythingButton": "Reset everything",
+  "resetAllDataButtonLabel": "Reset all local data",
+  "aboutTitle": "About",
+  "versionLabel": "Version",
+  "storageLabel": "Storage",
+  "storageValue": "On this device only",
+  "accountsLabel": "Accounts",
+  "accountsValue": "None — nothing to sign into",
+  "backupReadyToast": "Backup ready to save",
+  "backupCreateErrorToast": "Couldn't create the backup file.",
+  "restoreBackupTitle": "Restore this backup?",
+  "restoreBackupDescription": "This will replace all current tasks, habits, and settings with the contents of the backup file. This can't be undone.",
+  "restoreLabel": "Restore",
+  "backupRestoredToast": "Backup restored",
+  "couldntReadFileError": "Couldn't read that file.",
+  "notificationsOffFocusToast": "Notifications are off in your phone's settings — enable them there if you'd like Focus alerts.",
+  "notificationsOffTaskToast": "Notifications are off in your phone's settings — enable them there if you'd like task reminders.",
+  "notificationsOffHabitToast": "Notifications are off in your phone's settings — enable them there if you'd like habit reminders.",
+  "notificationsOffDailyPlanningToast": "Notifications are off in your phone's settings — enable them there if you'd like daily planning reminders.",
+  "analyticsTitle": "Analytics",
+  "analyticsSubtitle": "How your time actually moved.",
+  "thisWeekFilter": "This week",
+  "thisMonthFilter": "This month",
+  "productivityScoreLabel": "Productivity score",
+  "completionRateLabel": "Completion rate",
+  "avgSessionLabel": "Avg session",
+  "executionConsistencyTitle": "Execution & Consistency",
+  "executionConsistencySubtitle": "Planned vs Completed tasks and Habit adherence",
+  "focusTimeTrendTitle": "Focus time trend",
+  "todaysFocusBySession": "Today's focus, by session",
+  "last7DaysLabel": "last 7 days",
+  "last28DaysLabel": "last 28 days",
+  "categoryDistributionTitle": "Category distribution",
+  "allActiveTasksLabel": "All active tasks",
+  "categoryBreakdownRangeLabel": "Tasks · {range}",
+  "@categoryBreakdownRangeLabel": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "plannedVsActualTimeLabel": "Planned vs Actual Time ({planned} planned · {actual} actual)",
+  "@plannedVsActualTimeLabel": {
+    "placeholders": {
+      "planned": {
+        "type": "String"
+      },
+      "actual": {
+        "type": "String"
+      }
+    }
+  },
+  "completedVsSkippedTitle": "Completed vs skipped",
+  "dailyBreakdownLabel": "Daily breakdown",
+  "habitCompletionLabel": "Habit completion",
+  "noFocusSessionsToday": "No focus sessions logged yet today.",
+  "noTasksYet": "No tasks yet",
+  "tasksWord": "tasks",
+  "noHabitsYetShort": "No habits yet",
+  "avgHabitConsistencyLabel": "Average Habit Consistency",
+  "taskDelaysTitle": "Task Delays",
+  "noPostponedTasksSubtitle": "No postponed tasks yet. Great job!",
+  "patternsInPostponedTasks": "Patterns in postponed tasks",
+  "delayedTasksLabel": "Delayed Tasks",
+  "mostDelayedLabel": "Most Delayed",
+  "habitCommitmentTitle": "Habit Commitment",
+  "habitCommitmentSubtitle": "Insights into your daily adherence",
+  "mostConsistentLabel": "Most Consistent",
+  "needsAttentionLabel": "Needs Attention",
+  "addHabitsToSeePatterns": "Add some habits to see your commitment patterns.",
+  "notEnoughFocusData": "Not enough focus data yet.",
+  "notEnoughDailyReviews": "Not enough daily reviews yet.",
+  "noTasksPostponed": "No tasks have been postponed.",
+  "productivityPatternsTitle": "Productivity Patterns",
+  "observedBehavioralTrends": "Observed behavioral trends (Data-driven)",
+  "dayNameMondayInSentence": "Mondays",
+  "dayNameTuesdayInSentence": "Tuesdays",
+  "dayNameWednesdayInSentence": "Wednesdays",
+  "dayNameThursdayInSentence": "Thursdays",
+  "dayNameFridayInSentence": "Fridays",
+  "dayNameSaturdayInSentence": "Saturdays",
+  "dayNameSundayInSentence": "Sundays",
+  "productivityInsightsTitle": "Productivity Insights",
+  "whatRecentActivitySuggests": "What your recent activity suggests",
+  "keepUsingMeridianInsight": "Keep using Meridian for a few more days — insights show up here once there's enough data to spot real patterns.",
+  "periodMorningLower": "morning",
+  "periodAfternoonLower": "afternoon",
+  "periodEveningLower": "evening",
+  "periodNightLower": "night",
+  "urgentTaskWordSingular": "urgent task",
+  "urgentTaskWordPlural": "urgent tasks",
+  "resourceNoLinkError": "This resource doesn't have a link.",
+  "resourceInvalidLinkError": "That link doesn't look valid.",
+  "resourceOpenLinkError": "Couldn't open that link.",
+  "editResourceLabel": "Edit Resource",
+  "deleteResourceLabel": "Delete Resource",
+  "resourceDeleteTitle": "Delete this resource?",
+  "resourceGiveTitleError": "Give this resource a title.",
+  "resourceProvideUrlError": "Provide a URL for this resource.",
+  "resourceSelectImageError": "Please select an image.",
+  "resourceSaveImageError": "Failed to save image.",
+  "editResourceModalTitle": "Edit resource",
+  "coverImageLabel": "Cover Image",
+  "tapToSelectImage": "Tap to select image (optional)",
+  "titleLabel": "Title",
+  "urlLabel": "URL",
+  "descriptionOptionalLabel": "Description (Optional)",
+  "resourceTitleHint": "e.g. Flutter Masterclass",
+  "resourceUrlHint": "e.g. https://example.com/course",
+  "resourceDescHint": "e.g. Complete guide to Flutter",
+  "saveChangesButton": "Save changes",
+  "taskGiveTitleError": "Give this task a title.",
+  "taskInvalidLinkError": "That link doesn't look like a valid URL.",
+  "editTaskModalTitle": "Edit task",
+  "newTaskModalTitle": "New task",
+  "taskTitleHint": "e.g. Deep work — thesis draft",
+  "dateLabel": "Date",
+  "categoryLabelField": "Category",
+  "priorityLabelField": "Priority",
+  "statusLabelField": "Status",
+  "startHourLabel": "Start hour",
+  "minuteLabel": "Minute",
+  "durationMinLabel": "Duration (min)",
+  "linkLabel": "Link",
+  "taskLinkHint": "e.g. coursera.org/learn/your-course",
+  "notesLabel": "Notes",
+  "yesDeleteLabel": "Yes, delete",
+  "addToDayButton": "Add to day",
+  "habitGiveNameError": "Give this habit a name.",
+  "editHabitModalTitle": "Edit habit",
+  "newHabitModalTitle": "New habit",
+  "nameLabel": "Name",
+  "habitNameHint": "e.g. Morning run",
+  "iconLabel": "Icon",
+  "colorLabel": "Color",
+  "reminderLabel": "Reminder",
+  "noReminderLabel": "No reminder",
+  "topPrioritiesQuestion": "What are your top priorities for the day?",
+  "priorityHint1": "e.g. Finish thesis chapter 3",
+  "continueButton": "Continue",
+  "fixedCommitmentsLabel": "Fixed commitments today (optional)",
+  "commitmentsHintExample": "One per line, e.g. \"1pm - 2pm lunch with advisor\"",
+  "commitmentsFieldPlaceholder": "9am - 10am standup\n1pm-2pm lunch",
+  "backButton": "Back",
+  "generateScheduleButton": "Generate schedule",
+  "addToMyDayButton": "Add to my day",
+  "endOfDayReviewTitle": "End of day review",
+  "tasksDoneStatLabel": "Tasks done",
+  "focusedStatLabel": "Focused",
+  "whatWentWellLabel": "What went well today?",
+  "whatCouldImproveLabel": "What could be improved?",
+  "saveReflectionButton": "Save reflection",
+  "exitMeridianTitle": "Exit Meridian?",
+  "exitMeridianDesc": "Are you sure you want to exit Meridian?",
+  "exitLabel": "Exit",
+  "notCompletedSemanticLabel": "Not completed",
+  "doubleTapMarkNotDone": "Double tap to mark as not done",
+  "doubleTapMarkDone": "Double tap to mark as done",
+  "dataCorruptedRecoveredToast": "Your saved data couldn't be read and was reset. If you have a backup, you can restore it from Settings.",
+  "saveFailedToast": "Couldn't save your changes — your device may be low on storage.",
+  "resourceUpdatedToast": "Resource updated",
+  "reflectionSavedToast": "Reflection saved",
+  "allDataResetToast": "All local data has been reset",
+  "exampleDataLoadedToast": "Example data loaded",
+  "startingSoonNotifTitle": "Starting soon",
+  "habitReminderNotifTitle": "Habit reminder",
+  "goodMorningNotifTitle": "Good morning",
+  "readyToPlanBody": "Ready to plan your day?",
+  "dayAlmostOverNotifTitle": "Day almost over",
+  "takeMomentReviewBody": "Take a moment to review how it went.",
+  "breakTaskTitle": "Break",
+  "focusBlockFallback": "Focus block",
+  "generatedByPlanMyDayNote": "Generated by Plan My Day",
+  "continuedSuffix": " (cont.)",
+  "viewAllLabel": "View all",
+  "yourNameLabel": "Your name",
+  "yourNameDescription": "Used to personalize greetings on the dashboard.",
+  "yourNameHint": "e.g. Sam",
+  "profileTitle": "Profile",
+  "addNameBannerText": "Add your name for a more personal greeting",
+  "noThanksLabel": "No thanks",
+  "whatShouldWeCallYouTitle": "What should we call you?",
+  "overdueBadge": "OVERDUE",
+  "jumpToNowTooltip": "Jump to now",
+  "noTimeLeftTodayMessage": "There's no time left in today's schedule to plan around — try a different day, or add a task directly from the Planner.",
+  "addAnotherPriorityLabel": "Add another priority",
+  "taskInvalidDurationError": "Enter a valid duration in minutes (1–1440).",
+  "searchTasksHint": "Search tasks...",
+  "habitRemindersOffWarning": "Habit reminders are turned off in Settings — this won't notify you until you turn them on.",
+  "turnOnLabel": "Turn on",
+  "pauseHabitLabel": "Pause",
+  "pausedHabitsTitle": "Paused",
+  "resetSessionTitle": "Reset this session?",
+  "resetSessionDesc": "Your progress in this session will be lost.",
+  "searchResourcesHint": "Search resources...",
+  "resourcesNoMatchTitle": "No resources match your search.",
+  "thisWeekSoFarLabel": "this week",
+  "backupErrorInvalidJson": "This file isn't valid JSON.",
+  "backupErrorNotABackup": "This file doesn't look like a Meridian backup.",
+  "backupErrorWrongApp": "This file wasn't exported from Meridian.",
+  "backupErrorMissingData": "This backup file is missing its data.",
+  "backupErrorCorruptData": "This backup file's data is incomplete or corrupted.",
+  "habitDeleteDescStreak": "\"{name}\" and its {days}-day streak will be permanently removed.",
+  "@habitDeleteDescStreak": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "habitDeleteDescHistory": "\"{name}\" and its history will be permanently removed.",
+  "@habitDeleteDescHistory": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "tasksSummary": "{total} total · {completed} completed",
+  "@tasksSummary": {
+    "placeholders": {
+      "total": {
+        "type": "int"
+      },
+      "completed": {
+        "type": "int"
+      }
+    }
+  },
+  "taskDeleteDesc": "\"{title}\" will be permanently removed.",
+  "@taskDeleteDesc": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "upNextLabel": "UP NEXT · {start} → {end}",
+  "@upNextLabel": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "habitStreakDays": "{count} day streak",
+  "@habitStreakDays": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "tasksDoneLabel": "{completed} / {total} tasks done",
+  "@tasksDoneLabel": {
+    "placeholders": {
+      "completed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "timeBlockDeleteDesc": "\"{title}\" will be removed from your planner.",
+  "@timeBlockDeleteDesc": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "appsSelectedCount": "{count} apps selected",
+  "@appsSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "focusCompleteToast": "Focus session complete 🎉 — {mins} min on \"{title}\"",
+  "@focusCompleteToast": {
+    "placeholders": {
+      "mins": {
+        "type": "int"
+      },
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "focusCompleteNotifBody": "{mins} min on \"{title}\" — nice work.",
+  "@focusCompleteNotifBody": {
+    "placeholders": {
+      "mins": {
+        "type": "int"
+      },
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesPerDayLabel": "Minutes per day · {range}",
+  "@minutesPerDayLabel": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "ofFocusTarget": "of a {hours}h focus target",
+  "@ofFocusTarget": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "pctOfTodaysTarget": "{pct}% of today's target",
+  "@pctOfTodaysTarget": {
+    "placeholders": {
+      "pct": {
+        "type": "int"
+      }
+    }
+  },
+  "minPerDayPoint": "{mins} min · {date}",
+  "@minPerDayPoint": {
+    "placeholders": {
+      "mins": {
+        "type": "int"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "plannedVsCompletedLabel": "Planned vs Completed ({completed}/{total} tasks)",
+  "@plannedVsCompletedLabel": {
+    "placeholders": {
+      "completed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "overallPctLabel": "{pct}% overall",
+  "@overallPctLabel": {
+    "placeholders": {
+      "pct": {
+        "type": "int"
+      }
+    }
+  },
+  "peakFocusOccurs": "Peak focus occurs in the {period} ({mins} mins logged).",
+  "@peakFocusOccurs": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      },
+      "mins": {
+        "type": "int"
+      }
+    }
+  },
+  "highestCompletionRateDay": "Highest task completion rate is typically on {day} ({pct}%).",
+  "@highestCompletionRateDay": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "pct": {
+        "type": "int"
+      }
+    }
+  },
+  "postponingPriorityTasks": "Frequently postponing '{priority}' priority tasks ({count} times).",
+  "@postponingPriorityTasks": {
+    "placeholders": {
+      "priority": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "completionUpInsight": "Your task completion rate is up {diff}% this week compared to last week — whatever changed, keep it up.",
+  "@completionUpInsight": {
+    "placeholders": {
+      "diff": {
+        "type": "int"
+      }
+    }
+  },
+  "completionDownInsight": "Your task completion rate is down {diff}% compared to last week.",
+  "@completionDownInsight": {
+    "placeholders": {
+      "diff": {
+        "type": "int"
+      }
+    }
+  },
+  "completionSteadyInsight": "Your task completion rate is holding steady week over week ({pct}%).",
+  "@completionSteadyInsight": {
+    "placeholders": {
+      "pct": {
+        "type": "int"
+      }
+    }
+  },
+  "strongestHabitStreak": "{emoji} '{name}' is on a {days}-day streak — your strongest habit right now.",
+  "@strongestHabitStreak": {
+    "placeholders": {
+      "emoji": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      },
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "lapsedHabitInsight": "{emoji} '{name}' is usually solid ({pct}% overall) but hasn't been logged the last couple of days.",
+  "@lapsedHabitInsight": {
+    "placeholders": {
+      "emoji": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      },
+      "pct": {
+        "type": "int"
+      }
+    }
+  },
+  "goodAlignmentInsight": "Good alignment: you schedule most tasks in the {period}, which is also when your focus sessions run longest.",
+  "@goodAlignmentInsight": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "misalignedFocusInsight": "You focus best in the {focusPeriod}, but most completed tasks are scheduled in the {taskPeriod}. Try moving important work to your peak window.",
+  "@misalignedFocusInsight": {
+    "placeholders": {
+      "focusPeriod": {
+        "type": "String"
+      },
+      "taskPeriod": {
+        "type": "String"
+      }
+    }
+  },
+  "urgentTaskPostponedSingular": "'{title}' is urgent, still open, and has already been postponed once — worth tackling next.",
+  "@urgentTaskPostponedSingular": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "urgentTasksPostponedPlural": "'{title}' and {extra} other {taskWord} have already been postponed and are still open.",
+  "@urgentTasksPostponedPlural": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "extra": {
+        "type": "int"
+      },
+      "taskWord": {
+        "type": "String"
+      }
+    }
+  },
+  "priorityFieldLabel": "Priority {n}",
+  "@priorityFieldLabel": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursAvailableLabel": "Hours available for focused work: {hours}h",
+  "@hoursAvailableLabel": {
+    "placeholders": {
+      "hours": {
+        "type": "String"
+      }
+    }
+  },
+  "blocksGeneratedReview": "{count} blocks generated — review before adding them to your day.",
+  "@blocksGeneratedReview": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "durationMinutesLabel": "{mins} min",
+  "@durationMinutesLabel": {
+    "placeholders": {
+      "mins": {
+        "type": "int"
+      }
+    }
+  },
+  "blocksAddedToast": "{count} blocks added to your day",
+  "@blocksAddedToast": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "itemAddedToDayToast": "\"{title}\" added to your day",
+  "@itemAddedToDayToast": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "itemRemovedToast": "\"{title}\" removed",
+  "@itemRemovedToast": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "taskCompleteToast": "\"{title}\" complete",
+  "@taskCompleteToast": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "habitAddedToast": "\"{name}\" added to your habits",
+  "@habitAddedToast": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "habitLoggedTodayToast": "{emoji} \"{name}\" logged for today",
+  "@habitLoggedTodayToast": {
+    "placeholders": {
+      "emoji": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "resourceAddedToast": "\"{title}\" added to resources",
+  "@resourceAddedToast": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "taskStartsInBody": "\"{title}\" starts in {mins} minutes.",
+  "@taskStartsInBody": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "mins": {
+        "type": "int"
+      }
+    }
+  },
+  "timeForHabitBody": "Time for \"{name}\".",
+  "@timeForHabitBody": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "moreItemsLabel": "+{count} more",
+  "@moreItemsLabel": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "greetingMorningNamed": "Good morning, {name}.",
+  "@greetingMorningNamed": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "greetingAfternoonNamed": "Good afternoon, {name}.",
+  "@greetingAfternoonNamed": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "greetingEveningNamed": "Good evening, {name}.",
+  "@greetingEveningNamed": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "trendVsYesterday": "{delta} vs yesterday",
+  "@trendVsYesterday": {
+    "placeholders": {
+      "delta": {
+        "type": "String"
+      }
+    }
+  },
+  "minimumTimeWarning": "With {count} priorities, each gets at least 30 min — that's {neededHours}h total, more than the {setHours}h you've set.",
+  "@minimumTimeWarning": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "neededHours": {
+        "type": "String"
+      },
+      "setHours": {
+        "type": "String"
+      }
+    }
+  },
+  "unparsedCommitmentsWarning": "Couldn't figure out a time for: {lines} — won't be blocked off.",
+  "@unparsedCommitmentsWarning": {
+    "placeholders": {
+      "lines": {
+        "type": "String"
+      }
+    }
+  },
+  "weekdayMon": "Monday",
+  "weekdayTue": "Tuesday",
+  "weekdayWed": "Wednesday",
+  "weekdayThu": "Thursday",
+  "weekdayFri": "Friday",
+  "weekdaySat": "Saturday",
+  "weekdaySun": "Sunday",
+  "monthJan": "January",
+  "monthFeb": "February",
+  "monthMar": "March",
+  "monthApr": "April",
+  "monthMay": "May",
+  "monthJun": "June",
+  "monthJul": "July",
+  "monthAug": "August",
+  "monthSep": "September",
+  "monthOct": "October",
+  "monthNov": "November",
+  "monthDec": "December",
+  "monthShortJan": "Jan",
+  "monthShortFeb": "Feb",
+  "monthShortMar": "Mar",
+  "monthShortApr": "Apr",
+  "monthShortMay": "May",
+  "monthShortJun": "Jun",
+  "monthShortJul": "Jul",
+  "monthShortAug": "Aug",
+  "monthShortSep": "Sep",
+  "monthShortOct": "Oct",
+  "monthShortNov": "Nov",
+  "monthShortDec": "Dec",
+  "periodAm": "AM",
+  "periodPm": "PM",
+  "couldntLoadAppsError": "Couldn't load your apps. Try again.",
+  "retryLabel": "Retry",
+  "searchAppsHint": "Search apps",
+  "onboardingWelcomeTitle": "Welcome to Meridian",
+  "onboardingWelcomeSubtitle": "Your day, planned with intention — tasks, habits, and focus, all in one place.",
+  "onboardingPlanTitle": "Plan your day, then focus",
+  "onboardingPlanSubtitle": "Lay out your day on the Planner, then use Focus Mode to work on one thing at a time — distraction-free.",
+  "onboardingHabitsTitle": "Build habits that stick",
+  "onboardingHabitsSubtitle": "Track daily habits and see real patterns in Analytics — actual insight into how you work, not just charts.",
+  "onboardingNotifTitle": "Stay on track",
+  "onboardingNotifSubtitle": "Meridian can gently remind you about tasks, habits, and your daily plan — only what you turn on, nothing more.",
+  "onboardingNextButton": "Next",
+  "onboardingGetStartedButton": "Get Started",
+  "enableNotificationsButton": "Enable Notifications",
+  "notNowButton": "Not Now",
+  "perHabitBreakdownLabel": "Per-habit breakdown",
+  "missedDaysLabel": "Missed {missed} of {total} days",
+  "@missedDaysLabel": {
+    "placeholders": {
+      "missed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "averageDelayDaysLabel": "Average delay (days)",
+  "byCategoryLabel": "By category",
+  "byPriorityLabel": "By priority",
+  "currentlyOverdueLabel": "{count} overdue right now",
+  "@currentlyOverdueLabel": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
+}

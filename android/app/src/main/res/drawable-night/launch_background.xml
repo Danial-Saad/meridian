@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Night-mode counterpart of drawable/launch_background.xml. This didn't
+  exist before — colors.xml already defined `launch_bg` (#0A0A0E,
+  matching MeridianColors.dark.bg) but nothing referenced it, so a device
+  in system Dark Mode still saw the light launch background before
+  Flutter's own dark-themed splash took over: a "noticeable background
+  color change" during handoff, exactly what a polished launch should
+  avoid.
+-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <color android:color="@color/launch_bg"/>
+    </item>
+
+    <item
+        android:width="96dp"
+        android:height="96dp"
+        android:gravity="center">
+        <bitmap
+            android:gravity="fill"
+            android:src="@mipmap/ic_launcher" />
+    </item>
+</layer-list>

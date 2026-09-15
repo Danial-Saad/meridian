@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Android 12 (API 31) made its own SplashScreen system mandatory for every
+  app targeting API 31+ — it takes over the starting window instead of the
+  classic windowBackground mechanism in ../values/styles.xml, whether or
+  not the app has configured anything for it. Without an explicit
+  windowSplashScreenBackground here, the system can't derive a sensible
+  background from this app's launch_background.xml (a layer-list with a
+  bitmap isn't a valid input for the new API, which wants a solid color),
+  and falls back to its own default — which is what produced the reported
+  black screen. This is the actual fix for that; the light/dark
+  launch_background.xml drawables are unchanged and continue to serve
+  pre-31 devices exactly as before via ../values/styles.xml.
+
+  Deliberately does NOT set windowSplashScreenAnimatedIcon: leaving it
+  unset means the system uses this app's own adaptive launcher icon
+  automatically (already the correct wolf+compass mark, already padded
+  for the adaptive-icon safe zone from an earlier pass) — so the splash
+  icon is guaranteed pixel-identical to the real app icon with zero new
+  drawables and zero custom animation, matching "no unnecessary
+  animations" / "no expensive bitmap processing" for this native layer.
+-->
+<resources>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowSplashScreenBackground">@color/launch_bg_light</item>
+        <item name="android:windowSplashScreenAnimationDuration">0</item>
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+</resources>

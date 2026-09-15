@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  android:description on <accessibility-service> (see ../xml/accessibility_service_config.xml)
+  must be a @string reference, not an inline literal — AAPT2 rejects a
+  literal there with a resource-linking error ("... incompatible with
+  attribute description (attr) reference)"). This file exists specifically
+  to hold that string.
+-->
+<resources>
+    <string name="accessibility_service_description">Meridian requires this service to intercept and block distracting apps during an active Focus session.</string>
+</resources>
